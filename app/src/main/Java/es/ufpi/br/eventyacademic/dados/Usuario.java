@@ -17,7 +17,7 @@ public class Usuario {
     private ArrayList<Evento> Eventos;
     private Date Nascimento;
 
-    Usuario (String User, String Email, String Senha, String Nome, String CPF, Date Nascimento){
+    public Usuario (String User, String Email, String Senha, String Nome, String CPF, Date Nascimento){
         this.Username = User;
         this.Email = Email;
         this.Senha = Senha;
