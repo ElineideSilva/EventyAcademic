@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-
     package="br.com.ufpi.es.eventyacademic">
 
     <application
@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
+        <activity android:name="es.ufpi.br.eventyacademic.visao.CarregaTela" />
+        <activity android:name="es.ufpi.br.eventyacademic.visao.TelaCadastrarEvento" />
+        <activity android:name="es.ufpi.br.eventyacademic.visao.TelaCadastrarnoApp" />
+        <activity android:name="es.ufpi.br.eventyacademic.visao.TelaConsultarEvento" />
+        <activity android:name="es.ufpi.br.eventyacademic.visao.TelaLogin"></activity>
     </application>
 
 </manifest>
