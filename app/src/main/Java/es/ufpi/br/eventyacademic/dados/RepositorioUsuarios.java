@@ -1,4 +1,4 @@
-package es.ufpi.br.eventyacademic.dados;
+﻿package es.ufpi.br.eventyacademic.dados;
 
 
 import java.util.LinkedList;
@@ -12,7 +12,7 @@ public class RepositorioUsuarios {
     /*
     * Instanciando a Lista de Alunos
      */
-    List<Usuario> listaUse = new LinkedList<>();
+    static List<Usuario> listaUse = new LinkedList<>();
 
     /**
      * Dado um Usuario este � inserido na lista de Usuarios

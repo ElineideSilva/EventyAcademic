@@ -1,4 +1,4 @@
-package es.ufpi.br.eventyacademic.dados;
+﻿package es.ufpi.br.eventyacademic.dados;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 
 public class RepositorioEventos {
 	
-List<Evento> listaEve = new LinkedList<Evento>();
+static List<Evento> listaEve = new LinkedList<Evento>();
 	
 	/**
 	 * Dado um evento este � inserido na lista de eventos
