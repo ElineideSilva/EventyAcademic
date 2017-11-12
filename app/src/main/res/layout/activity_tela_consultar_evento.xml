@@ -6,4 +6,34 @@
     android:layout_height="match_parent"
     tools:context="es.ufpi.br.eventyacademic.visao.TelaConsultarEvento">
 
+
+    <Button
+        android:id="@+id/buttonLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="4dp"
+        android:onClick ="login" />
+
+    <Button
+        android:id="@+id/buttonEventos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Eventos"
+        tools:layout_editor_absoluteX="92dp"
+        tools:layout_editor_absoluteY="4dp"
+        android:onClick="evento" />
+
+    <EditText
+        android:id="@+id/editTextConsultarEvento"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Digite o Evento"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="75dp" />
+
+
 </android.support.constraint.ConstraintLayout>

@@ -4,7 +4,26 @@
             "outputFile": "C:\\Users\\Segundo\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Segundo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\a4dd2d4ea13bc43e696ef61fcad62772\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\Segundo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.1.aar\\f9a45c285cbaafd108b848fa26fafc7b\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Segundo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\9f3cc951c1f9cb865e33323ab3192e65\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

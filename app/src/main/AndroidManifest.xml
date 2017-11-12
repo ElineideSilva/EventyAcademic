@@ -9,6 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
         <activity android:name="es.ufpi.br.eventyacademic.visao.CarregaTela" />
         <activity android:name="es.ufpi.br.eventyacademic.visao.TelaCadastrarEvento" />
         <activity android:name="es.ufpi.br.eventyacademic.visao.TelaCadastrarnoApp" />
