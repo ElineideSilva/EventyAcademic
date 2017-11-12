@@ -6,7 +6,10 @@ import java.util.List;
 
 public class RepositorioEventos {
 	
-static List<Evento> listaEve = new LinkedList<Evento>();
+	private static List<Evento> listaEve = new LinkedList<Evento>();
+	private static List<Minicurso> listaMini = new LinkedList<Minicurso>();
+	private static List<Palestra> listaPalestra = new LinkedList<Palestra>();
+	private static List<Workshop> listaWork = new LinkedList<Workshop>();
 	
 	/**
 	 * Dado um evento este � inserido na lista de eventos
@@ -14,6 +17,12 @@ static List<Evento> listaEve = new LinkedList<Evento>();
 	public void inserir(Evento u) {
 		listaEve.add(u);
 	}
+	public void inserirMinicurso(Minicurso m) {
+		listaMini.add(m);}
+	public void inserirPalestra(Palestra p) {
+		listaPalestra.add(p);}
+	public void inserirWorkshop(Workshop w) {
+		listaWork.add(w);}
 
 	/**
 	 * Retorna a lista de eventos
