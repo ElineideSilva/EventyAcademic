@@ -17,7 +17,7 @@ public class TelaVariaEvento extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_varia_evento);
-
+/*
         consultaEventos = (Button) findViewById(R.id.buttonConsultarEventos);
         cadastraEventos = (Button) findViewById(R.id.buttonCadastrarEventos);
 
@@ -36,7 +36,7 @@ public class TelaVariaEvento extends AppCompatActivity {
                 mudaTelaCadastraEvento(view);
             }
         });
-
+*/
     }
     //mudar de uma activy para outro
     //Intent intent = new Intent(this, SegundaActivity.class);

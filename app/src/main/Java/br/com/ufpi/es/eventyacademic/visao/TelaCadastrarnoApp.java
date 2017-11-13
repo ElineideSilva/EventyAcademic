@@ -30,13 +30,13 @@ public class TelaCadastrarnoApp extends AppCompatActivity  {
         endereco = (EditText) findViewById(R.id.editTextEndereco);
         telefone = (EditText) findViewById(R.id.editTextTelefone);
 
-        spinnerN = (Spinner) findViewById(R.id.spinnerNivel);
+       // spinnerN = (Spinner) findViewById(R.id.spinnerNivel);
 
         email = (EditText) findViewById(R.id.editTextEmailCadastro);
         senha = (EditText) findViewById(R.id.editTextSenhaCadastro);
         confirmeSenha = (EditText) findViewById(R.id.editTextConfirmeSenhaCadastro);
 
-        spinnerA = (Spinner) findViewById(R.id.spinnerAreaDesejada);
+        //spinnerA = (Spinner) findViewById(R.id.spinnerAreaDesejada);
         cadastrar = (Button) findViewById(R.id.buttonCadastrar);
         cadastrar.setOnClickListener(new View.OnClickListener() {
              @Override
