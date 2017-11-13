@@ -30,8 +30,18 @@ public class TelaLogin extends AppCompatActivity {
 
         BtLogin = (Button) findViewById(R.id.buttonLogin);
         BtEventos = (Button) findViewById(R.id.buttonEventos);
+
         BtEntrar = (Button) findViewById(R.id.buttonEntrar);
+        BtEntrar.setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v) {
+                TelaLogin(v);
+            }
+        });
+
         BtCriarUsuario = (Button) findViewById(R.id.buttonNewUsuario);
+
     }
 
     public void TelaLogin (View v){

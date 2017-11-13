@@ -8,7 +8,6 @@ import android.widget.Button;
 
 import br.com.ufpi.es.eventyacademic.R;
 
-.R;
 
 public class TelaVariaEvento extends AppCompatActivity {
 
