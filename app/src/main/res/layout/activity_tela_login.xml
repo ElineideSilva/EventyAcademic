@@ -1,28 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".visao.TelaLogin">
 
-    <Button
-        android:id="@+id/buttonLogin"
-        android:layout_width="wrap_content"
+    <LinearLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Login"
-        tools:layout_editor_absoluteX="4dp"
-        tools:layout_editor_absoluteY="4dp"
-        android:onClick ="login" />
+        android:orientation="horizontal">
 
-    <Button
-        android:id="@+id/buttonEventos"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Eventos"
-        tools:layout_editor_absoluteX="92dp"
-        tools:layout_editor_absoluteY="4dp"
-        android:onClick="evento" />
+        <Button
+            android:id="@+id/buttonLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Login"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="4dp"
+            android:onClick ="login"
+            android:layout_weight="0.5"
+            android:layout_marginRight="10dp"/>
+
+        <Button
+            android:id="@+id/buttonEventos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Eventos"
+            tools:layout_editor_absoluteX="92dp"
+            tools:layout_editor_absoluteY="4dp"
+            android:layout_weight="0.5"
+            android:onClick="evento" />
+
+
+    </LinearLayout>
 
     <ImageView
         android:id="@+id/imageView"
@@ -30,43 +43,44 @@
         android:layout_height="178dp"
         app:srcCompat="@drawable/icone"
         tools:layout_editor_absoluteX="84dp"
-        tools:layout_editor_absoluteY="59dp" />
+        tools:layout_editor_absoluteY="59dp"
+        android:layout_gravity="center_horizontal"/>
 
-    <EditText
-        android:id="@+id/editTextEmail"
-        android:layout_width="wrap_content"
+    <LinearLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="textEmailAddress"
-        android:hint="Email"
-        tools:layout_editor_absoluteX="84dp"
-        tools:layout_editor_absoluteY="252dp" />
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
 
-    <EditText
-        android:id="@+id/editTextSenha"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="textPassword"
-        android:hint="Senha"
-        tools:layout_editor_absoluteX="84dp"
-        tools:layout_editor_absoluteY="298dp" />
+        <EditText
+            android:id="@+id/editTextEmail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textEmailAddress"
+            android:hint="Email"/>
 
-    <Button
-        android:id="@+id/buttonEntrar"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Entrar"
-        tools:layout_editor_absoluteX="148dp"
-        tools:layout_editor_absoluteY="344dp" />
+        <EditText
+            android:id="@+id/editTextSenha"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPassword"
+            android:hint="Senha"/>
 
-    <Button
-        android:id="@+id/buttonNewUsuario"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Criar Usuário"
-        tools:layout_editor_absoluteX="129dp"
-        tools:layout_editor_absoluteY="392dp" />
+        <Button
+            android:id="@+id/buttonEntrar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Entrar"/>
+
+        <Button
+            android:id="@+id/buttonNewUsuario"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Criar Usuário"/>
 
 
-</android.support.constraint.ConstraintLayout>
+    </LinearLayout>
+
+</LinearLayout>

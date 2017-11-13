@@ -5,8 +5,7 @@ import java.util.Date;
 
 import br.com.ufpi.es.eventyacademic.dados.Evento;
 import br.com.ufpi.es.eventyacademic.dados.RepositorioEventos;
-import br.com.ufpi.es.eventyacademic.dados.Usuario;
-import es.ufpi.br.eventyacademic.dados.*;
+import br.com.ufpi.es.eventyacademic.dados.*;
 
 
 public class ControladorEvento {

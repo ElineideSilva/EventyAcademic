@@ -1,74 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".visao.TelaCadastrarEvento">
+    android:orientation="vertical"
+    tools:context=".visao.TelaCadastrarEvento"
+    android:layout_margin="10dp">
 
-    <Button
-        android:id="@+id/buttonLogin"
-        android:layout_width="wrap_content"
+    <LinearLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Login"
-        tools:layout_editor_absoluteX="4dp"
-        tools:layout_editor_absoluteY="4dp"
-        android:onClick ="login" />
+        android:orientation="horizontal">
 
-    <Button
-        android:id="@+id/buttonEventos"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Eventos"
-        tools:layout_editor_absoluteX="92dp"
-        tools:layout_editor_absoluteY="4dp"
-        android:onClick="evento" />
+        <Button
+            android:id="@+id/buttonLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Login"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="4dp"
+            android:layout_weight="0.5"
+            android:onClick ="login"
+            android:layout_marginRight="10dp"/>
 
-    <TextView
-        android:id="@+id/textView3"
-        android:layout_width="166dp"
-        android:layout_height="48dp"
-        android:text="Cadastar Evento"
-        android:textSize="20sp"
-        tools:layout_editor_absoluteX="109dp"
-        tools:layout_editor_absoluteY="59dp" />
+        <Button
+            android:id="@+id/buttonEventos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Eventos"
+            tools:layout_editor_absoluteX="92dp"
+            tools:layout_editor_absoluteY="4dp"
+            android:onClick="evento"
+            android:layout_weight="0.5"/>
 
-    <EditText
-        android:id="@+id/editTextNomeEvento"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="textPersonName"
-        android:hint="Nome do Evento"
-        tools:layout_editor_absoluteX="84dp"
-        tools:layout_editor_absoluteY="124dp" />
+    </LinearLayout>
 
-    <EditText
-        android:id="@+id/editText4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:ems="10"
-        android:hint="Descrição do Evento"
-        android:inputType="textMultiLine"
-        tools:layout_editor_absoluteX="85dp"
-        tools:layout_editor_absoluteY="213dp" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:gravity="center">
 
-    <TextView
-        android:id="@+id/textView3"
-        android:layout_width="148dp"
-        android:layout_height="29dp"
-        android:text="Descrição do Evento"
-        android:textSize="15sp"
-        tools:layout_editor_absoluteX="118dp"
-        tools:layout_editor_absoluteY="184dp" />
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="166dp"
+            android:layout_height="48dp"
+            android:text="Cadastar Evento"
+            android:textSize="20sp"
+            tools:layout_editor_absoluteX="109dp"
+            tools:layout_editor_absoluteY="59dp" />
 
-    <Button
-        android:id="@+id/buttonCriarEvento"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Criar Evento "
-        tools:layout_editor_absoluteX="129dp"
-        tools:layout_editor_absoluteY="392dp" />
+        <EditText
+            android:id="@+id/editTextNomeEvento"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:hint="Nome do Evento"
+            tools:layout_editor_absoluteX="84dp"
+            tools:layout_editor_absoluteY="124dp" />
+
+        <EditText
+            android:id="@+id/editText4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Descrição do Evento"
+            android:inputType="textMultiLine"
+            tools:layout_editor_absoluteX="85dp"
+            tools:layout_editor_absoluteY="213dp" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="148dp"
+            android:layout_height="29dp"
+            android:text="Descrição do Evento"
+            android:textSize="15sp"
+            tools:layout_editor_absoluteX="118dp"
+            tools:layout_editor_absoluteY="184dp"
+            android:layout_marginBottom="50dp"/>
+
+        <Button
+            android:id="@+id/buttonCriarEvento"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Criar Evento" />
 
 
-</android.support.constraint.ConstraintLayout>
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

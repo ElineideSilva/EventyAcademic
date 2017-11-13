@@ -1,8 +1,7 @@
 package br.com.ufpi.es.eventyacademic.controle;
 
 import br.com.ufpi.es.eventyacademic.dados.RepositorioUsuarios;
-import br.com.ufpi.es.eventyacademic.dados.Usuario;
-import es.ufpi.br.eventyacademic.dados.*;
+import br.com.ufpi.es.eventyacademic.dados.*;
 
 public class ControladorCadastro {
     Usuario u;

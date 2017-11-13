@@ -29,7 +29,7 @@ public class CarregaTela extends AppCompatActivity {
     }
 
     public void mudaTelaLogin (View view){
-        Intent intentMostraTelaConsultar = new Intent(this,TelaConsultarEvento.class);
+        Intent intentMostraTelaConsultar = new Intent(this,TelaLogin.class);
         startActivity (intentMostraTelaConsultar);
     }
 }

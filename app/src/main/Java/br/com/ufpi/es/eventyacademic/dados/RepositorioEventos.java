@@ -1,8 +1,7 @@
-﻿package br.com.ufpi.es.eventyacademic.dados;
+package br.com.ufpi.es.eventyacademic.dados;
 
 import java.util.LinkedList;
 import java.util.List;
-
 
 public class RepositorioEventos {
 	
@@ -12,7 +11,7 @@ public class RepositorioEventos {
 	private static List<Workshop> listaWork = new LinkedList<Workshop>();
 	
 	/**
-	 * Dado um evento este � inserido na lista de eventos
+	 * Dado um evento este é inserido na lista de eventos
 	 */
 	public void inserir(Evento u) {
 		listaEve.add(u);
