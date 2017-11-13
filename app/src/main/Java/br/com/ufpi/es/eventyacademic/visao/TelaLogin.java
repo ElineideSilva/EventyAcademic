@@ -30,6 +30,14 @@ public class TelaLogin extends AppCompatActivity {
 
         BtLogin = (Button) findViewById(R.id.buttonLogin);
         BtEventos = (Button) findViewById(R.id.buttonEventos);
+        BtEventos.setOnClickListener(new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View v) {
+                MudaTelaConsultarEventos(v);
+            }
+        });
+
 
         BtEntrar = (Button) findViewById(R.id.buttonEntrar);
         BtEntrar.setOnClickListener(new View.OnClickListener()
@@ -74,5 +82,9 @@ public class TelaLogin extends AppCompatActivity {
     public void limpaCamposEntrada(){
         usuario.setText("");
         senha.setText("");
+    }
+    public void MudaTelaConsultarEventos(View v){
+        Intent intent = new Intent(this,TelaConsultarEvento.class);
+        startActivity(intent);
     }
 }
