@@ -14,6 +14,7 @@ public class RepositorioUsuarios {
      */
     static List<Usuario> listaUse = new LinkedList<>();
 
+
     /**
      * Dado um Usuario este � inserido na lista de Usuarios
      */
@@ -30,15 +31,15 @@ public class RepositorioUsuarios {
 
     /**
      * busca um Usuario pelo nome
-     * @param nome nome do Usuario desejado  para procura
+     * @param email email do Usuario desejado  para procura
      * @return retorna o Usuario se ele existir
      */
 
-    public Usuario buscar(String nome) {
+    public Usuario buscar(String email) {
         Usuario Usuario=null;
         //percorre toda a lista e checa se o Usuario existe
         for(Usuario u:listaUse){
-            if (u.getNome().equals(nome) ){
+            if (u.getEmail().equals(email) ){
                 Usuario = u;
                 return Usuario;
             }

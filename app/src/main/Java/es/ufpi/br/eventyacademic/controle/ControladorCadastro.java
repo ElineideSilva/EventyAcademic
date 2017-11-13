@@ -23,4 +23,22 @@ public class ControladorCadastro {
         return true;
 
     }
+
+    /**
+     * Dado um email retorna os dados do usuario
+     * @param email email do usuario
+     * @return usuario
+     */
+    public Usuario carregarDadosUsuario(String email){
+        Usuario usuario = new Usuario();
+
+        //Recupera informacoes do repositorio ou servico de base de usuarios
+        usuario = r.buscar(email);
+
+        if (usuario != null){
+            return usuario;
+        }else {
+            return null;
+        }
+    }
 }
