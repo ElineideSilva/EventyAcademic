@@ -4,11 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="es.ufpi.br.eventyacademic.visao.TelaCadastrarnoApp">
+    tools:context=".visao.TelaCadastrarnoApp">
 
 
     <EditText
-        android:id="@+id/editTextNome"
+        android:id="@+id/editTextNomeCadastro"
         android:layout_width="295dp"
         android:layout_height="47dp"
         android:ems="10"
@@ -55,7 +55,7 @@
         tools:layout_editor_absoluteY="226dp" />
 
     <EditText
-        android:id="@+id/editTextEmail"
+        android:id="@+id/editTextEmailCadastro"
         android:layout_width="295dp"
         android:layout_height="47dp"
         android:ems="10"
@@ -65,7 +65,7 @@
         tools:layout_editor_absoluteY="281dp" />
 
     <EditText
-        android:id="@+id/editTextSenha"
+        android:id="@+id/editTextSenhaCadastro"
         android:layout_width="295dp"
         android:layout_height="47dp"
         android:ems="10"
@@ -75,7 +75,7 @@
         tools:layout_editor_absoluteY="336dp" />
 
     <EditText
-        android:id="@+id/editTextConfirmeSenha"
+        android:id="@+id/editTextConfirmeSenhaCadastro"
         android:layout_width="295dp"
         android:layout_height="47dp"
         android:ems="10"

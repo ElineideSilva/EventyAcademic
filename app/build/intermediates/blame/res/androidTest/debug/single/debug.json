@@ -32,12 +32,12 @@
         "source": "C:\\Users\\Segundo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\af849acf624dcc5728ac2188eac7c5a6\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\Laftel\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\Laftel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\775250db8a98ec59abf8fa09fd7b9b3e\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
-    },
-    {
         "merged": "C:\\Users\\Segundo\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v11_notification_media_cancel_action.xml.flat",
         "source": "C:\\Users\\Segundo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\a4dd2d4ea13bc43e696ef61fcad62772\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Laftel\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Laftel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\775250db8a98ec59abf8fa09fd7b9b3e\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
         "merged": "C:\\Users\\Segundo\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -60,12 +60,12 @@
         "source": "C:\\Users\\Laftel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\775250db8a98ec59abf8fa09fd7b9b3e\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Segundo\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
-        "source": "C:\\Users\\Segundo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\9f3cc951c1f9cb865e33323ab3192e65\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
-    },
-    {
         "merged": "C:\\Users\\eline\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_abc_action_bar_title_item.xml.flat",
         "source": "C:\\Users\\eline\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\03467e689a24d8bda6265a4ac38fb003\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Segundo\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\Segundo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\9f3cc951c1f9cb865e33323ab3192e65\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
         "merged": "C:\\Users\\Segundo\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
@@ -104,12 +104,12 @@
         "source": "C:\\Users\\Laftel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\775250db8a98ec59abf8fa09fd7b9b3e\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\eline\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
-        "source": "C:\\Users\\eline\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\03467e689a24d8bda6265a4ac38fb003\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
-    },
-    {
         "merged": "C:\\Users\\eline\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\eline\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\03467e689a24d8bda6265a4ac38fb003\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\eline\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\eline\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\03467e689a24d8bda6265a4ac38fb003\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "C:\\Users\\eline\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_abc_cab_background_top_material.xml.flat",
@@ -184,24 +184,24 @@
         "source": "C:\\Users\\Laftel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\775250db8a98ec59abf8fa09fd7b9b3e\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\Laftel\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "C:\\Users\\Laftel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\775250db8a98ec59abf8fa09fd7b9b3e\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
         "merged": "C:\\Users\\eline\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\eline\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\03467e689a24d8bda6265a4ac38fb003\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\Segundo\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
-        "source": "C:\\Users\\Segundo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\9f3cc951c1f9cb865e33323ab3192e65\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+        "merged": "C:\\Users\\Laftel\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Laftel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\775250db8a98ec59abf8fa09fd7b9b3e\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Laftel\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Laftel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\775250db8a98ec59abf8fa09fd7b9b3e\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
         "merged": "C:\\Users\\Segundo\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_lines_media.xml.flat",
         "source": "C:\\Users\\Segundo\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\bf6e5434189ec241f8c9c28f5e9a41b6\\res\\layout\\notification_template_lines_media.xml"
     },
     {
-        "merged": "C:\\Users\\Laftel\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
-        "source": "C:\\Users\\Laftel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\775250db8a98ec59abf8fa09fd7b9b3e\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+        "merged": "C:\\Users\\Segundo\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Segundo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\9f3cc951c1f9cb865e33323ab3192e65\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\Laftel\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
@@ -244,24 +244,24 @@
         "source": "C:\\Users\\Laftel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\775250db8a98ec59abf8fa09fd7b9b3e\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "C:\\Users\\Laftel\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_abc_action_bar_up_container.xml.flat",
-        "source": "C:\\Users\\Laftel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\775250db8a98ec59abf8fa09fd7b9b3e\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
         "merged": "C:\\Users\\Laftel\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
         "source": "C:\\Users\\Laftel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\775250db8a98ec59abf8fa09fd7b9b3e\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Laftel\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\Laftel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\775250db8a98ec59abf8fa09fd7b9b3e\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
         "merged": "C:\\Users\\Segundo\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_notification_tile_bg.xml.flat",
         "source": "C:\\Users\\Segundo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\af849acf624dcc5728ac2188eac7c5a6\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Segundo\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
-        "source": "C:\\Users\\Segundo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\9f3cc951c1f9cb865e33323ab3192e65\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
-    },
-    {
         "merged": "C:\\Users\\Segundo\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\Segundo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\9f3cc951c1f9cb865e33323ab3192e65\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Segundo\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Segundo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\9f3cc951c1f9cb865e33323ab3192e65\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
         "merged": "C:\\Users\\Segundo\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -300,12 +300,12 @@
         "source": "C:\\Users\\eline\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\03467e689a24d8bda6265a4ac38fb003\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\Laftel\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Laftel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\775250db8a98ec59abf8fa09fd7b9b3e\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Laftel\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\Laftel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\775250db8a98ec59abf8fa09fd7b9b3e\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Laftel\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Laftel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\775250db8a98ec59abf8fa09fd7b9b3e\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Laftel\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -412,16 +412,16 @@
         "source": "C:\\Users\\eline\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\03467e689a24d8bda6265a4ac38fb003\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "C:\\Users\\Laftel\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "C:\\Users\\Laftel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\775250db8a98ec59abf8fa09fd7b9b3e\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+        "merged": "C:\\Users\\Segundo\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_abc_vector_test.xml.flat",
+        "source": "C:\\Users\\Segundo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\9f3cc951c1f9cb865e33323ab3192e65\\res\\drawable\\abc_vector_test.xml"
     },
     {
         "merged": "C:\\Users\\Laftel\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Laftel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\775250db8a98ec59abf8fa09fd7b9b3e\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Segundo\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_abc_vector_test.xml.flat",
-        "source": "C:\\Users\\Segundo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\9f3cc951c1f9cb865e33323ab3192e65\\res\\drawable\\abc_vector_test.xml"
+        "merged": "C:\\Users\\Laftel\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Laftel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\775250db8a98ec59abf8fa09fd7b9b3e\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "C:\\Users\\Laftel\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\color_abc_btn_colored_text_material.xml.flat",
@@ -544,12 +544,12 @@
         "source": "C:\\Users\\Laftel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\775250db8a98ec59abf8fa09fd7b9b3e\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Laftel\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
-        "source": "C:\\Users\\Laftel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\775250db8a98ec59abf8fa09fd7b9b3e\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
         "merged": "C:\\Users\\eline\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\eline\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\03467e689a24d8bda6265a4ac38fb003\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Laftel\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\Laftel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\775250db8a98ec59abf8fa09fd7b9b3e\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
         "merged": "C:\\Users\\eline\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_abc_expanded_menu_layout.xml.flat",

@@ -106,38 +106,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Segundo\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-ro_values-ro.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\Segundo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\9f3cc951c1f9cb865e33323ab3192e65\\res\\values-ro\\values-ro.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,226,330,443,531,643,764,849,930,1013,1125,1238,1338,1452,1557,1663,1827,1930",
-                        "endColumns": "120,103,112,87,111,120,84,80,82,111,112,99,113,104,105,163,102,82",
-                        "endOffsets": "221,325,438,526,638,759,844,925,1008,1120,1233,1333,1447,1552,1658,1822,1925,2008"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Segundo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\af849acf624dcc5728ac2188eac7c5a6\\res\\values-ro\\values-ro.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2013",
-                        "endColumns": "100",
-                        "endOffsets": "2109"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\eline\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-es-rUS_values-es-rUS.arsc.flat",
             "map": [
                 {
@@ -165,6 +133,38 @@
                         "startOffsets": "1976",
                         "endColumns": "100",
                         "endOffsets": "2072"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Segundo\\AndroidStudioProjects\\EventyAcademic\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-ro_values-ro.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Segundo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\9f3cc951c1f9cb865e33323ab3192e65\\res\\values-ro\\values-ro.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,226,330,443,531,643,764,849,930,1013,1125,1238,1338,1452,1557,1663,1827,1930",
+                        "endColumns": "120,103,112,87,111,120,84,80,82,111,112,99,113,104,105,163,102,82",
+                        "endOffsets": "221,325,438,526,638,759,844,925,1008,1120,1233,1333,1447,1552,1658,1822,1925,2008"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Segundo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\af849acf624dcc5728ac2188eac7c5a6\\res\\values-ro\\values-ro.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2013",
+                        "endColumns": "100",
+                        "endOffsets": "2109"
                     }
                 }
             ]

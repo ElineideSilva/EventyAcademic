@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("br.com.ufpi.es.eventyacademic", appContext.getPackageName());
+        assertEquals("br.com.ufpi.es.br.com.ufpi.es.eventyacademic", appContext.getPackageName());
     }
 }

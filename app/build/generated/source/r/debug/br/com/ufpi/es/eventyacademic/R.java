@@ -3549,143 +3549,145 @@ public final class R {
     public static final int design_navigation_view=0x7f090043;
     public static final int disableHome=0x7f090044;
     public static final int editText4=0x7f090045;
-    public static final int editTextConfirmeSenha=0x7f090046;
+    public static final int editTextConfirmeSenhaCadastro=0x7f090046;
     public static final int editTextConsultarEvento=0x7f090047;
     public static final int editTextEmail=0x7f090048;
-    public static final int editTextEndereco=0x7f090049;
-    public static final int editTextNome=0x7f09004a;
-    public static final int editTextNomeEvento=0x7f09004b;
-    public static final int editTextRG=0x7f09004c;
-    public static final int editTextSenha=0x7f09004d;
-    public static final int editTextTelefone=0x7f09004e;
-    public static final int edit_query=0x7f09004f;
-    public static final int end=0x7f090050;
-    public static final int end_padder=0x7f090051;
-    public static final int enterAlways=0x7f090052;
-    public static final int enterAlwaysCollapsed=0x7f090053;
-    public static final int exitUntilCollapsed=0x7f090054;
-    public static final int expand_activities_button=0x7f090055;
-    public static final int expanded_menu=0x7f090056;
-    public static final int fill=0x7f090057;
-    public static final int fill_horizontal=0x7f090058;
-    public static final int fill_vertical=0x7f090059;
-    public static final int fixed=0x7f09005a;
-    public static final int forever=0x7f09005b;
-    public static final int ghost_view=0x7f09005c;
-    public static final int home=0x7f09005d;
-    public static final int homeAsUp=0x7f09005e;
-    public static final int icon=0x7f09005f;
-    public static final int icon_group=0x7f090060;
-    public static final int ifRoom=0x7f090061;
-    public static final int image=0x7f090062;
-    public static final int imageView=0x7f090063;
-    public static final int imageView2=0x7f090064;
-    public static final int info=0x7f090065;
-    public static final int italic=0x7f090066;
-    public static final int item_touch_helper_previous_elevation=0x7f090067;
-    public static final int largeLabel=0x7f090068;
-    public static final int left=0x7f090069;
-    public static final int line1=0x7f09006a;
-    public static final int line3=0x7f09006b;
-    public static final int listMode=0x7f09006c;
-    public static final int list_item=0x7f09006d;
-    public static final int masked=0x7f09006e;
-    public static final int media_actions=0x7f09006f;
-    public static final int message=0x7f090070;
-    public static final int middle=0x7f090071;
-    public static final int mini=0x7f090072;
-    public static final int multiply=0x7f090073;
-    public static final int navigation_header_container=0x7f090074;
-    public static final int never=0x7f090075;
-    public static final int none=0x7f090076;
-    public static final int normal=0x7f090077;
-    public static final int notification_background=0x7f090078;
-    public static final int notification_main_column=0x7f090079;
-    public static final int notification_main_column_container=0x7f09007a;
-    public static final int packed=0x7f09007b;
-    public static final int parallax=0x7f09007c;
-    public static final int parent=0x7f09007d;
-    public static final int parentPanel=0x7f09007e;
-    public static final int parent_matrix=0x7f09007f;
-    public static final int pin=0x7f090080;
-    public static final int progress_circular=0x7f090081;
-    public static final int progress_horizontal=0x7f090082;
-    public static final int radio=0x7f090083;
-    public static final int right=0x7f090084;
-    public static final int right_icon=0x7f090085;
-    public static final int right_side=0x7f090086;
-    public static final int save_image_matrix=0x7f090087;
-    public static final int save_non_transition_alpha=0x7f090088;
-    public static final int save_scale_type=0x7f090089;
-    public static final int screen=0x7f09008a;
-    public static final int scroll=0x7f09008b;
-    public static final int scrollIndicatorDown=0x7f09008c;
-    public static final int scrollIndicatorUp=0x7f09008d;
-    public static final int scrollView=0x7f09008e;
-    public static final int scrollable=0x7f09008f;
-    public static final int search_badge=0x7f090090;
-    public static final int search_bar=0x7f090091;
-    public static final int search_button=0x7f090092;
-    public static final int search_close_btn=0x7f090093;
-    public static final int search_edit_frame=0x7f090094;
-    public static final int search_go_btn=0x7f090095;
-    public static final int search_mag_icon=0x7f090096;
-    public static final int search_plate=0x7f090097;
-    public static final int search_src_text=0x7f090098;
-    public static final int search_voice_btn=0x7f090099;
-    public static final int select_dialog_listview=0x7f09009a;
-    public static final int shortcut=0x7f09009b;
-    public static final int showCustom=0x7f09009c;
-    public static final int showHome=0x7f09009d;
-    public static final int showTitle=0x7f09009e;
-    public static final int smallLabel=0x7f09009f;
-    public static final int snackbar_action=0x7f0900a0;
-    public static final int snackbar_text=0x7f0900a1;
-    public static final int snap=0x7f0900a2;
-    public static final int spacer=0x7f0900a3;
-    public static final int spinnerAreaDesejada=0x7f0900a4;
-    public static final int spinnerNivel=0x7f0900a5;
-    public static final int split_action_bar=0x7f0900a6;
-    public static final int spread=0x7f0900a7;
-    public static final int spread_inside=0x7f0900a8;
-    public static final int src_atop=0x7f0900a9;
-    public static final int src_in=0x7f0900aa;
-    public static final int src_over=0x7f0900ab;
-    public static final int start=0x7f0900ac;
-    public static final int status_bar_latest_event_content=0x7f0900ad;
-    public static final int submenuarrow=0x7f0900ae;
-    public static final int submit_area=0x7f0900af;
-    public static final int tabMode=0x7f0900b0;
-    public static final int tag_transition_group=0x7f0900b1;
-    public static final int text=0x7f0900b2;
-    public static final int text2=0x7f0900b3;
-    public static final int textSpacerNoButtons=0x7f0900b4;
-    public static final int textSpacerNoTitle=0x7f0900b5;
-    public static final int textView=0x7f0900b6;
-    public static final int textView3=0x7f0900b7;
-    public static final int text_input_password_toggle=0x7f0900b8;
-    public static final int textinput_counter=0x7f0900b9;
-    public static final int textinput_error=0x7f0900ba;
-    public static final int time=0x7f0900bb;
-    public static final int title=0x7f0900bc;
-    public static final int titleDividerNoCustom=0x7f0900bd;
-    public static final int title_template=0x7f0900be;
-    public static final int top=0x7f0900bf;
-    public static final int topPanel=0x7f0900c0;
-    public static final int touch_outside=0x7f0900c1;
-    public static final int transition_current_scene=0x7f0900c2;
-    public static final int transition_layout_save=0x7f0900c3;
-    public static final int transition_position=0x7f0900c4;
-    public static final int transition_scene_layoutid_cache=0x7f0900c5;
-    public static final int transition_transform=0x7f0900c6;
-    public static final int uniform=0x7f0900c7;
-    public static final int up=0x7f0900c8;
-    public static final int useLogo=0x7f0900c9;
-    public static final int view_offset_helper=0x7f0900ca;
-    public static final int visible=0x7f0900cb;
-    public static final int withText=0x7f0900cc;
-    public static final int wrap=0x7f0900cd;
-    public static final int wrap_content=0x7f0900ce;
+    public static final int editTextEmailCadastro=0x7f090049;
+    public static final int editTextEndereco=0x7f09004a;
+    public static final int editTextNomeCadastro=0x7f09004b;
+    public static final int editTextNomeEvento=0x7f09004c;
+    public static final int editTextRG=0x7f09004d;
+    public static final int editTextSenha=0x7f09004e;
+    public static final int editTextSenhaCadastro=0x7f09004f;
+    public static final int editTextTelefone=0x7f090050;
+    public static final int edit_query=0x7f090051;
+    public static final int end=0x7f090052;
+    public static final int end_padder=0x7f090053;
+    public static final int enterAlways=0x7f090054;
+    public static final int enterAlwaysCollapsed=0x7f090055;
+    public static final int exitUntilCollapsed=0x7f090056;
+    public static final int expand_activities_button=0x7f090057;
+    public static final int expanded_menu=0x7f090058;
+    public static final int fill=0x7f090059;
+    public static final int fill_horizontal=0x7f09005a;
+    public static final int fill_vertical=0x7f09005b;
+    public static final int fixed=0x7f09005c;
+    public static final int forever=0x7f09005d;
+    public static final int ghost_view=0x7f09005e;
+    public static final int home=0x7f09005f;
+    public static final int homeAsUp=0x7f090060;
+    public static final int icon=0x7f090061;
+    public static final int icon_group=0x7f090062;
+    public static final int ifRoom=0x7f090063;
+    public static final int image=0x7f090064;
+    public static final int imageView=0x7f090065;
+    public static final int imageView2=0x7f090066;
+    public static final int info=0x7f090067;
+    public static final int italic=0x7f090068;
+    public static final int item_touch_helper_previous_elevation=0x7f090069;
+    public static final int largeLabel=0x7f09006a;
+    public static final int left=0x7f09006b;
+    public static final int line1=0x7f09006c;
+    public static final int line3=0x7f09006d;
+    public static final int listMode=0x7f09006e;
+    public static final int list_item=0x7f09006f;
+    public static final int masked=0x7f090070;
+    public static final int media_actions=0x7f090071;
+    public static final int message=0x7f090072;
+    public static final int middle=0x7f090073;
+    public static final int mini=0x7f090074;
+    public static final int multiply=0x7f090075;
+    public static final int navigation_header_container=0x7f090076;
+    public static final int never=0x7f090077;
+    public static final int none=0x7f090078;
+    public static final int normal=0x7f090079;
+    public static final int notification_background=0x7f09007a;
+    public static final int notification_main_column=0x7f09007b;
+    public static final int notification_main_column_container=0x7f09007c;
+    public static final int packed=0x7f09007d;
+    public static final int parallax=0x7f09007e;
+    public static final int parent=0x7f09007f;
+    public static final int parentPanel=0x7f090080;
+    public static final int parent_matrix=0x7f090081;
+    public static final int pin=0x7f090082;
+    public static final int progress_circular=0x7f090083;
+    public static final int progress_horizontal=0x7f090084;
+    public static final int radio=0x7f090085;
+    public static final int right=0x7f090086;
+    public static final int right_icon=0x7f090087;
+    public static final int right_side=0x7f090088;
+    public static final int save_image_matrix=0x7f090089;
+    public static final int save_non_transition_alpha=0x7f09008a;
+    public static final int save_scale_type=0x7f09008b;
+    public static final int screen=0x7f09008c;
+    public static final int scroll=0x7f09008d;
+    public static final int scrollIndicatorDown=0x7f09008e;
+    public static final int scrollIndicatorUp=0x7f09008f;
+    public static final int scrollView=0x7f090090;
+    public static final int scrollable=0x7f090091;
+    public static final int search_badge=0x7f090092;
+    public static final int search_bar=0x7f090093;
+    public static final int search_button=0x7f090094;
+    public static final int search_close_btn=0x7f090095;
+    public static final int search_edit_frame=0x7f090096;
+    public static final int search_go_btn=0x7f090097;
+    public static final int search_mag_icon=0x7f090098;
+    public static final int search_plate=0x7f090099;
+    public static final int search_src_text=0x7f09009a;
+    public static final int search_voice_btn=0x7f09009b;
+    public static final int select_dialog_listview=0x7f09009c;
+    public static final int shortcut=0x7f09009d;
+    public static final int showCustom=0x7f09009e;
+    public static final int showHome=0x7f09009f;
+    public static final int showTitle=0x7f0900a0;
+    public static final int smallLabel=0x7f0900a1;
+    public static final int snackbar_action=0x7f0900a2;
+    public static final int snackbar_text=0x7f0900a3;
+    public static final int snap=0x7f0900a4;
+    public static final int spacer=0x7f0900a5;
+    public static final int spinnerAreaDesejada=0x7f0900a6;
+    public static final int spinnerNivel=0x7f0900a7;
+    public static final int split_action_bar=0x7f0900a8;
+    public static final int spread=0x7f0900a9;
+    public static final int spread_inside=0x7f0900aa;
+    public static final int src_atop=0x7f0900ab;
+    public static final int src_in=0x7f0900ac;
+    public static final int src_over=0x7f0900ad;
+    public static final int start=0x7f0900ae;
+    public static final int status_bar_latest_event_content=0x7f0900af;
+    public static final int submenuarrow=0x7f0900b0;
+    public static final int submit_area=0x7f0900b1;
+    public static final int tabMode=0x7f0900b2;
+    public static final int tag_transition_group=0x7f0900b3;
+    public static final int text=0x7f0900b4;
+    public static final int text2=0x7f0900b5;
+    public static final int textSpacerNoButtons=0x7f0900b6;
+    public static final int textSpacerNoTitle=0x7f0900b7;
+    public static final int textView=0x7f0900b8;
+    public static final int textView3=0x7f0900b9;
+    public static final int text_input_password_toggle=0x7f0900ba;
+    public static final int textinput_counter=0x7f0900bb;
+    public static final int textinput_error=0x7f0900bc;
+    public static final int time=0x7f0900bd;
+    public static final int title=0x7f0900be;
+    public static final int titleDividerNoCustom=0x7f0900bf;
+    public static final int title_template=0x7f0900c0;
+    public static final int top=0x7f0900c1;
+    public static final int topPanel=0x7f0900c2;
+    public static final int touch_outside=0x7f0900c3;
+    public static final int transition_current_scene=0x7f0900c4;
+    public static final int transition_layout_save=0x7f0900c5;
+    public static final int transition_position=0x7f0900c6;
+    public static final int transition_scene_layoutid_cache=0x7f0900c7;
+    public static final int transition_transform=0x7f0900c8;
+    public static final int uniform=0x7f0900c9;
+    public static final int up=0x7f0900ca;
+    public static final int useLogo=0x7f0900cb;
+    public static final int view_offset_helper=0x7f0900cc;
+    public static final int visible=0x7f0900cd;
+    public static final int withText=0x7f0900ce;
+    public static final int wrap=0x7f0900cf;
+    public static final int wrap_content=0x7f0900d0;
   }
   public static final class integer {
     public static final int abc_config_activityDefaultDur=0x7f0a0000;
@@ -4208,35 +4210,35 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background br.com.ufpi.es.eventyacademic:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit br.com.ufpi.es.eventyacademic:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked br.com.ufpi.es.eventyacademic:backgroundStacked}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd br.com.ufpi.es.eventyacademic:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions br.com.ufpi.es.eventyacademic:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft br.com.ufpi.es.eventyacademic:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight br.com.ufpi.es.eventyacademic:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart br.com.ufpi.es.eventyacademic:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation br.com.ufpi.es.eventyacademic:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout br.com.ufpi.es.eventyacademic:customNavigationLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions br.com.ufpi.es.eventyacademic:displayOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_divider br.com.ufpi.es.eventyacademic:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation br.com.ufpi.es.eventyacademic:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_height br.com.ufpi.es.eventyacademic:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll br.com.ufpi.es.eventyacademic:hideOnContentScroll}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator br.com.ufpi.es.eventyacademic:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout br.com.ufpi.es.eventyacademic:homeLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_icon br.com.ufpi.es.eventyacademic:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle br.com.ufpi.es.eventyacademic:indeterminateProgressStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding br.com.ufpi.es.eventyacademic:itemPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_logo br.com.ufpi.es.eventyacademic:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode br.com.ufpi.es.eventyacademic:navigationMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme br.com.ufpi.es.eventyacademic:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding br.com.ufpi.es.eventyacademic:progressBarPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle br.com.ufpi.es.eventyacademic:progressBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle br.com.ufpi.es.eventyacademic:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle br.com.ufpi.es.eventyacademic:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_title br.com.ufpi.es.eventyacademic:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle br.com.ufpi.es.eventyacademic:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_background br.com.ufpi.es.br.com.ufpi.es.eventyacademic:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit br.com.ufpi.es.br.com.ufpi.es.eventyacademic:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked br.com.ufpi.es.br.com.ufpi.es.eventyacademic:backgroundStacked}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout br.com.ufpi.es.br.com.ufpi.es.eventyacademic:customNavigationLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions br.com.ufpi.es.br.com.ufpi.es.eventyacademic:displayOptions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_divider br.com.ufpi.es.br.com.ufpi.es.eventyacademic:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation br.com.ufpi.es.br.com.ufpi.es.eventyacademic:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_height br.com.ufpi.es.br.com.ufpi.es.eventyacademic:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll br.com.ufpi.es.br.com.ufpi.es.eventyacademic:hideOnContentScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator br.com.ufpi.es.br.com.ufpi.es.eventyacademic:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout br.com.ufpi.es.br.com.ufpi.es.eventyacademic:homeLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_icon br.com.ufpi.es.br.com.ufpi.es.eventyacademic:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:indeterminateProgressStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding br.com.ufpi.es.br.com.ufpi.es.eventyacademic:itemPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_logo br.com.ufpi.es.br.com.ufpi.es.eventyacademic:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode br.com.ufpi.es.br.com.ufpi.es.eventyacademic:navigationMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme br.com.ufpi.es.br.com.ufpi.es.eventyacademic:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding br.com.ufpi.es.br.com.ufpi.es.eventyacademic:progressBarPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:progressBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_title br.com.ufpi.es.br.com.ufpi.es.eventyacademic:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -4322,7 +4324,7 @@ public final class R {
      */
     public static final int ActionBarLayout_android_layout_gravity=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#background}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#background}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4330,11 +4332,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:background
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:background
      */
     public static final int ActionBar_background=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4345,11 +4347,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:backgroundSplit
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#backgroundStacked}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#backgroundStacked}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4360,11 +4362,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:backgroundStacked
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4373,11 +4375,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:contentInsetEnd
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4386,11 +4388,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:contentInsetEndWithActions
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4399,11 +4401,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:contentInsetLeft
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4412,11 +4414,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:contentInsetRight
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4425,11 +4427,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:contentInsetStart
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4438,11 +4440,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:contentInsetStartWithNavigation
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#customNavigationLayout}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#customNavigationLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4450,11 +4452,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:customNavigationLayout
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#displayOptions}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#displayOptions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -4472,11 +4474,11 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:displayOptions
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#divider}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#divider}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4484,11 +4486,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:divider
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:divider
      */
     public static final int ActionBar_divider=11;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#elevation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4497,11 +4499,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:elevation
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#height}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#height}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4510,21 +4512,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:height
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:height
      */
     public static final int ActionBar_height=13;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#hideOnContentScroll}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#hideOnContentScroll}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:hideOnContentScroll
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4532,11 +4534,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:homeAsUpIndicator
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#homeLayout}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#homeLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4544,11 +4546,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:homeLayout
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#icon}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#icon}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4556,11 +4558,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:icon
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:icon
      */
     public static final int ActionBar_icon=17;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#indeterminateProgressStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#indeterminateProgressStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4568,11 +4570,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:indeterminateProgressStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#itemPadding}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#itemPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4581,11 +4583,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:itemPadding
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#logo}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#logo}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4593,11 +4595,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:logo
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:logo
      */
     public static final int ActionBar_logo=20;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#navigationMode}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#navigationMode}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -4611,11 +4613,11 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:navigationMode
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#popupTheme}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4623,11 +4625,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:popupTheme
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#progressBarPadding}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#progressBarPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4636,11 +4638,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:progressBarPadding
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#progressBarStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#progressBarStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4648,21 +4650,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:progressBarStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#subtitle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.com.ufpi.es.eventyacademic:subtitle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4670,21 +4672,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:subtitleTextStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#title}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#title}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.com.ufpi.es.eventyacademic:title
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:title
      */
     public static final int ActionBar_title=27;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4692,7 +4694,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:titleTextStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -4731,12 +4733,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background br.com.ufpi.es.eventyacademic:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit br.com.ufpi.es.eventyacademic:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout br.com.ufpi.es.eventyacademic:closeItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_height br.com.ufpi.es.eventyacademic:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle br.com.ufpi.es.eventyacademic:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle br.com.ufpi.es.eventyacademic:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_background br.com.ufpi.es.br.com.ufpi.es.eventyacademic:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit br.com.ufpi.es.br.com.ufpi.es.eventyacademic:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout br.com.ufpi.es.br.com.ufpi.es.eventyacademic:closeItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_height br.com.ufpi.es.br.com.ufpi.es.eventyacademic:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -4750,7 +4752,7 @@ public final class R {
         0x7f04013a, 0x7f040170
       };
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#background}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#background}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4758,11 +4760,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:background
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:background
      */
     public static final int ActionMode_background=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4773,11 +4775,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:backgroundSplit
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#closeItemLayout}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#closeItemLayout}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4785,11 +4787,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:closeItemLayout
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#height}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#height}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4798,11 +4800,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:height
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:height
      */
     public static final int ActionMode_height=3;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4810,11 +4812,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:subtitleTextStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4822,7 +4824,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:titleTextStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -4832,8 +4834,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable br.com.ufpi.es.eventyacademic:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount br.com.ufpi.es.eventyacademic:initialActivityCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable br.com.ufpi.es.br.com.ufpi.es.eventyacademic:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount br.com.ufpi.es.br.com.ufpi.es.eventyacademic:initialActivityCount}</code></td><td></td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -4842,7 +4844,7 @@ public final class R {
         0x7f040080, 0x7f0400aa
       };
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#expandActivityOverflowButtonDrawable}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#expandActivityOverflowButtonDrawable}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4850,17 +4852,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:expandActivityOverflowButtonDrawable
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#initialActivityCount}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#initialActivityCount}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.com.ufpi.es.eventyacademic:initialActivityCount
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -4871,12 +4873,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout br.com.ufpi.es.eventyacademic:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout br.com.ufpi.es.eventyacademic:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout br.com.ufpi.es.eventyacademic:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout br.com.ufpi.es.eventyacademic:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle br.com.ufpi.es.eventyacademic:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout br.com.ufpi.es.eventyacademic:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout br.com.ufpi.es.br.com.ufpi.es.eventyacademic:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout br.com.ufpi.es.br.com.ufpi.es.eventyacademic:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout br.com.ufpi.es.br.com.ufpi.es.eventyacademic:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout br.com.ufpi.es.br.com.ufpi.es.eventyacademic:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout br.com.ufpi.es.br.com.ufpi.es.eventyacademic:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonPanelSideLayout
@@ -4903,7 +4905,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4911,11 +4913,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:buttonPanelSideLayout
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=1;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4923,11 +4925,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:listItemLayout
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4935,11 +4937,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:listLayout
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:listLayout
      */
     public static final int AlertDialog_listLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4947,21 +4949,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:multiChoiceItemLayout
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:showTitle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:showTitle
      */
     public static final int AlertDialog_showTitle=5;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4969,7 +4971,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:singleChoiceItemLayout
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=6;
     /**
@@ -4982,8 +4984,8 @@ public final class R {
      * <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_touchscreenBlocksFocus android:touchscreenBlocksFocus}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_keyboardNavigationCluster android:keyboardNavigationCluster}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_elevation br.com.ufpi.es.eventyacademic:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_expanded br.com.ufpi.es.eventyacademic:expanded}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_elevation br.com.ufpi.es.br.com.ufpi.es.eventyacademic:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_expanded br.com.ufpi.es.br.com.ufpi.es.eventyacademic:expanded}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_android_background
      * @see #AppBarLayout_android_touchscreenBlocksFocus
@@ -5002,8 +5004,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed br.com.ufpi.es.eventyacademic:state_collapsed}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible br.com.ufpi.es.eventyacademic:state_collapsible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed br.com.ufpi.es.br.com.ufpi.es.eventyacademic:state_collapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible br.com.ufpi.es.br.com.ufpi.es.eventyacademic:state_collapsible}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayoutStates_state_collapsed
      * @see #AppBarLayoutStates_state_collapsible
@@ -5012,23 +5014,23 @@ public final class R {
         0x7f040131, 0x7f040132
       };
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#state_collapsed}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#state_collapsed}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:state_collapsed
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:state_collapsed
      */
     public static final int AppBarLayoutStates_state_collapsed=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#state_collapsible}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#state_collapsible}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:state_collapsible
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:state_collapsible
      */
     public static final int AppBarLayoutStates_state_collapsible=1;
     /**
@@ -5038,8 +5040,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags br.com.ufpi.es.eventyacademic:layout_scrollFlags}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator br.com.ufpi.es.eventyacademic:layout_scrollInterpolator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_scrollFlags}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_scrollInterpolator}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_Layout_layout_scrollFlags
      * @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -5048,7 +5050,7 @@ public final class R {
         0x7f0400e8, 0x7f0400e9
       };
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_scrollFlags}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_scrollFlags}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -5064,11 +5066,11 @@ public final class R {
      * <tr><td>snap</td><td>10</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_scrollFlags
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_scrollFlags
      */
     public static final int AppBarLayout_Layout_layout_scrollFlags=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_scrollInterpolator}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_scrollInterpolator}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5076,7 +5078,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_scrollInterpolator
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_scrollInterpolator
      */
     public static final int AppBarLayout_Layout_layout_scrollInterpolator=1;
     /**
@@ -5115,7 +5117,7 @@ public final class R {
      */
     public static final int AppBarLayout_android_touchscreenBlocksFocus=1;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#elevation}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5124,17 +5126,17 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:elevation
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:elevation
      */
     public static final int AppBarLayout_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#expanded}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#expanded}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:expanded
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:expanded
      */
     public static final int AppBarLayout_expanded=4;
     /**
@@ -5145,9 +5147,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat br.com.ufpi.es.eventyacademic:srcCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint br.com.ufpi.es.eventyacademic:tint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode br.com.ufpi.es.eventyacademic:tintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat br.com.ufpi.es.br.com.ufpi.es.eventyacademic:srcCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -5173,7 +5175,7 @@ public final class R {
      */
     public static final int AppCompatImageView_android_src=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#srcCompat}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#srcCompat}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5181,22 +5183,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:srcCompat
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#tint}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#tint}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:tint
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#tintMode}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#tintMode}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5213,7 +5215,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:tintMode
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -5224,9 +5226,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark br.com.ufpi.es.eventyacademic:tickMark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint br.com.ufpi.es.eventyacademic:tickMarkTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode br.com.ufpi.es.eventyacademic:tickMarkTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tickMark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tickMarkTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tickMarkTintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -5249,7 +5251,7 @@ public final class R {
      */
     public static final int AppCompatSeekBar_android_thumb=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#tickMark}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#tickMark}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5257,22 +5259,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:tickMark
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#tickMarkTint}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#tickMarkTint}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:tickMarkTint
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#tickMarkTintMode}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#tickMarkTintMode}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5289,7 +5291,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:tickMarkTintMode
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -5429,13 +5431,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize br.com.ufpi.es.eventyacademic:autoSizeMaxTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize br.com.ufpi.es.eventyacademic:autoSizeMinTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes br.com.ufpi.es.eventyacademic:autoSizePresetSizes}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity br.com.ufpi.es.eventyacademic:autoSizeStepGranularity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType br.com.ufpi.es.eventyacademic:autoSizeTextType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily br.com.ufpi.es.eventyacademic:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps br.com.ufpi.es.eventyacademic:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize br.com.ufpi.es.br.com.ufpi.es.eventyacademic:autoSizeMaxTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize br.com.ufpi.es.br.com.ufpi.es.eventyacademic:autoSizeMinTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes br.com.ufpi.es.br.com.ufpi.es.eventyacademic:autoSizePresetSizes}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity br.com.ufpi.es.br.com.ufpi.es.eventyacademic:autoSizeStepGranularity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType br.com.ufpi.es.br.com.ufpi.es.eventyacademic:autoSizeTextType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_autoSizeMaxTextSize
@@ -5463,7 +5465,7 @@ public final class R {
      */
     public static final int AppCompatTextView_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#autoSizeMaxTextSize}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#autoSizeMaxTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5472,11 +5474,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:autoSizeMaxTextSize
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#autoSizeMinTextSize}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#autoSizeMinTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5485,11 +5487,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:autoSizeMinTextSize
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#autoSizePresetSizes}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#autoSizePresetSizes}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5497,11 +5499,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:autoSizePresetSizes
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#autoSizeStepGranularity}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#autoSizeStepGranularity}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5510,11 +5512,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:autoSizeStepGranularity
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#autoSizeTextType}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#autoSizeTextType}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5527,21 +5529,21 @@ public final class R {
      * <tr><td>uniform</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:autoSizeTextType
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#fontFamily}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.com.ufpi.es.eventyacademic:fontFamily
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=6;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5551,7 +5553,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:textAllCaps
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=7;
     /**
@@ -5563,123 +5565,123 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider br.com.ufpi.es.eventyacademic:actionBarDivider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground br.com.ufpi.es.eventyacademic:actionBarItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme br.com.ufpi.es.eventyacademic:actionBarPopupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize br.com.ufpi.es.eventyacademic:actionBarSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle br.com.ufpi.es.eventyacademic:actionBarSplitStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle br.com.ufpi.es.eventyacademic:actionBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle br.com.ufpi.es.eventyacademic:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle br.com.ufpi.es.eventyacademic:actionBarTabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle br.com.ufpi.es.eventyacademic:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme br.com.ufpi.es.eventyacademic:actionBarTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme br.com.ufpi.es.eventyacademic:actionBarWidgetTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle br.com.ufpi.es.eventyacademic:actionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle br.com.ufpi.es.eventyacademic:actionDropDownStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance br.com.ufpi.es.eventyacademic:actionMenuTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor br.com.ufpi.es.eventyacademic:actionMenuTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground br.com.ufpi.es.eventyacademic:actionModeBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle br.com.ufpi.es.eventyacademic:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable br.com.ufpi.es.eventyacademic:actionModeCloseDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable br.com.ufpi.es.eventyacademic:actionModeCopyDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable br.com.ufpi.es.eventyacademic:actionModeCutDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable br.com.ufpi.es.eventyacademic:actionModeFindDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable br.com.ufpi.es.eventyacademic:actionModePasteDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle br.com.ufpi.es.eventyacademic:actionModePopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable br.com.ufpi.es.eventyacademic:actionModeSelectAllDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable br.com.ufpi.es.eventyacademic:actionModeShareDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground br.com.ufpi.es.eventyacademic:actionModeSplitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle br.com.ufpi.es.eventyacademic:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable br.com.ufpi.es.eventyacademic:actionModeWebSearchDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle br.com.ufpi.es.eventyacademic:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle br.com.ufpi.es.eventyacademic:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle br.com.ufpi.es.eventyacademic:activityChooserViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle br.com.ufpi.es.eventyacademic:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons br.com.ufpi.es.eventyacademic:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle br.com.ufpi.es.eventyacademic:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme br.com.ufpi.es.eventyacademic:alertDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle br.com.ufpi.es.eventyacademic:autoCompleteTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle br.com.ufpi.es.eventyacademic:borderlessButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle br.com.ufpi.es.eventyacademic:buttonBarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle br.com.ufpi.es.eventyacademic:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle br.com.ufpi.es.eventyacademic:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle br.com.ufpi.es.eventyacademic:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle br.com.ufpi.es.eventyacademic:buttonBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle br.com.ufpi.es.eventyacademic:buttonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall br.com.ufpi.es.eventyacademic:buttonStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle br.com.ufpi.es.eventyacademic:checkboxStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle br.com.ufpi.es.eventyacademic:checkedTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent br.com.ufpi.es.eventyacademic:colorAccent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating br.com.ufpi.es.eventyacademic:colorBackgroundFloating}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal br.com.ufpi.es.eventyacademic:colorButtonNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated br.com.ufpi.es.eventyacademic:colorControlActivated}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight br.com.ufpi.es.eventyacademic:colorControlHighlight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal br.com.ufpi.es.eventyacademic:colorControlNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError br.com.ufpi.es.eventyacademic:colorError}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary br.com.ufpi.es.eventyacademic:colorPrimary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark br.com.ufpi.es.eventyacademic:colorPrimaryDark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal br.com.ufpi.es.eventyacademic:colorSwitchThumbNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground br.com.ufpi.es.eventyacademic:controlBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding br.com.ufpi.es.eventyacademic:dialogPreferredPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme br.com.ufpi.es.eventyacademic:dialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal br.com.ufpi.es.eventyacademic:dividerHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical br.com.ufpi.es.eventyacademic:dividerVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle br.com.ufpi.es.eventyacademic:dropDownListViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight br.com.ufpi.es.eventyacademic:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground br.com.ufpi.es.eventyacademic:editTextBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor br.com.ufpi.es.eventyacademic:editTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle br.com.ufpi.es.eventyacademic:editTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator br.com.ufpi.es.eventyacademic:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle br.com.ufpi.es.eventyacademic:imageButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator br.com.ufpi.es.eventyacademic:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog br.com.ufpi.es.eventyacademic:listDividerAlertDialog}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle br.com.ufpi.es.eventyacademic:listMenuViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle br.com.ufpi.es.eventyacademic:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight br.com.ufpi.es.eventyacademic:listPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge br.com.ufpi.es.eventyacademic:listPreferredItemHeightLarge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall br.com.ufpi.es.eventyacademic:listPreferredItemHeightSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft br.com.ufpi.es.eventyacademic:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight br.com.ufpi.es.eventyacademic:listPreferredItemPaddingRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground br.com.ufpi.es.eventyacademic:panelBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme br.com.ufpi.es.eventyacademic:panelMenuListTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth br.com.ufpi.es.eventyacademic:panelMenuListWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle br.com.ufpi.es.eventyacademic:popupMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle br.com.ufpi.es.eventyacademic:popupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle br.com.ufpi.es.eventyacademic:radioButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle br.com.ufpi.es.eventyacademic:ratingBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator br.com.ufpi.es.eventyacademic:ratingBarStyleIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall br.com.ufpi.es.eventyacademic:ratingBarStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle br.com.ufpi.es.eventyacademic:searchViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle br.com.ufpi.es.eventyacademic:seekBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground br.com.ufpi.es.eventyacademic:selectableItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless br.com.ufpi.es.eventyacademic:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle br.com.ufpi.es.eventyacademic:spinnerDropDownItemStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle br.com.ufpi.es.eventyacademic:spinnerStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle br.com.ufpi.es.eventyacademic:switchStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu br.com.ufpi.es.eventyacademic:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem br.com.ufpi.es.eventyacademic:textAppearanceListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary br.com.ufpi.es.eventyacademic:textAppearanceListItemSecondary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall br.com.ufpi.es.eventyacademic:textAppearanceListItemSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader br.com.ufpi.es.eventyacademic:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle br.com.ufpi.es.eventyacademic:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle br.com.ufpi.es.eventyacademic:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu br.com.ufpi.es.eventyacademic:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem br.com.ufpi.es.eventyacademic:textColorAlertDialogListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl br.com.ufpi.es.eventyacademic:textColorSearchUrl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle br.com.ufpi.es.eventyacademic:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle br.com.ufpi.es.eventyacademic:toolbarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor br.com.ufpi.es.eventyacademic:tooltipForegroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground br.com.ufpi.es.eventyacademic:tooltipFrameBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar br.com.ufpi.es.eventyacademic:windowActionBar}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay br.com.ufpi.es.eventyacademic:windowActionBarOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay br.com.ufpi.es.eventyacademic:windowActionModeOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor br.com.ufpi.es.eventyacademic:windowFixedHeightMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor br.com.ufpi.es.eventyacademic:windowFixedHeightMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor br.com.ufpi.es.eventyacademic:windowFixedWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor br.com.ufpi.es.eventyacademic:windowFixedWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor br.com.ufpi.es.eventyacademic:windowMinWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor br.com.ufpi.es.eventyacademic:windowMinWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle br.com.ufpi.es.eventyacademic:windowNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionBarDivider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionBarItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionBarPopupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionBarSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionBarSplitStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionBarTabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionBarTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionBarWidgetTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionDropDownStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionMenuTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionMenuTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModeBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModeCloseDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModeCopyDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModeCutDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModeFindDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModePasteDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModePopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModeSelectAllDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModeShareDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModeSplitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModeWebSearchDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:activityChooserViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons br.com.ufpi.es.br.com.ufpi.es.eventyacademic:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme br.com.ufpi.es.br.com.ufpi.es.eventyacademic:alertDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:autoCompleteTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:borderlessButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:buttonBarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:buttonBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:buttonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall br.com.ufpi.es.br.com.ufpi.es.eventyacademic:buttonStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:checkboxStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:checkedTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent br.com.ufpi.es.br.com.ufpi.es.eventyacademic:colorAccent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating br.com.ufpi.es.br.com.ufpi.es.eventyacademic:colorBackgroundFloating}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal br.com.ufpi.es.br.com.ufpi.es.eventyacademic:colorButtonNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated br.com.ufpi.es.br.com.ufpi.es.eventyacademic:colorControlActivated}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight br.com.ufpi.es.br.com.ufpi.es.eventyacademic:colorControlHighlight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal br.com.ufpi.es.br.com.ufpi.es.eventyacademic:colorControlNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError br.com.ufpi.es.br.com.ufpi.es.eventyacademic:colorError}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary br.com.ufpi.es.br.com.ufpi.es.eventyacademic:colorPrimary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark br.com.ufpi.es.br.com.ufpi.es.eventyacademic:colorPrimaryDark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal br.com.ufpi.es.br.com.ufpi.es.eventyacademic:colorSwitchThumbNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground br.com.ufpi.es.br.com.ufpi.es.eventyacademic:controlBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding br.com.ufpi.es.br.com.ufpi.es.eventyacademic:dialogPreferredPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme br.com.ufpi.es.br.com.ufpi.es.eventyacademic:dialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal br.com.ufpi.es.br.com.ufpi.es.eventyacademic:dividerHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical br.com.ufpi.es.br.com.ufpi.es.eventyacademic:dividerVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:dropDownListViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight br.com.ufpi.es.br.com.ufpi.es.eventyacademic:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground br.com.ufpi.es.br.com.ufpi.es.eventyacademic:editTextBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor br.com.ufpi.es.br.com.ufpi.es.eventyacademic:editTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:editTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator br.com.ufpi.es.br.com.ufpi.es.eventyacademic:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:imageButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator br.com.ufpi.es.br.com.ufpi.es.eventyacademic:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog br.com.ufpi.es.br.com.ufpi.es.eventyacademic:listDividerAlertDialog}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:listMenuViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight br.com.ufpi.es.br.com.ufpi.es.eventyacademic:listPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge br.com.ufpi.es.br.com.ufpi.es.eventyacademic:listPreferredItemHeightLarge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall br.com.ufpi.es.br.com.ufpi.es.eventyacademic:listPreferredItemHeightSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft br.com.ufpi.es.br.com.ufpi.es.eventyacademic:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight br.com.ufpi.es.br.com.ufpi.es.eventyacademic:listPreferredItemPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground br.com.ufpi.es.br.com.ufpi.es.eventyacademic:panelBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme br.com.ufpi.es.br.com.ufpi.es.eventyacademic:panelMenuListTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth br.com.ufpi.es.br.com.ufpi.es.eventyacademic:panelMenuListWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:popupMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:popupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:radioButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:ratingBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator br.com.ufpi.es.br.com.ufpi.es.eventyacademic:ratingBarStyleIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall br.com.ufpi.es.br.com.ufpi.es.eventyacademic:ratingBarStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:searchViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:seekBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground br.com.ufpi.es.br.com.ufpi.es.eventyacademic:selectableItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless br.com.ufpi.es.br.com.ufpi.es.eventyacademic:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:spinnerDropDownItemStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:spinnerStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:switchStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textAppearanceListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textAppearanceListItemSecondary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textAppearanceListItemSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textColorAlertDialogListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textColorSearchUrl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:toolbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tooltipForegroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tooltipFrameBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar br.com.ufpi.es.br.com.ufpi.es.eventyacademic:windowActionBar}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay br.com.ufpi.es.br.com.ufpi.es.eventyacademic:windowActionBarOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay br.com.ufpi.es.br.com.ufpi.es.eventyacademic:windowActionModeOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor br.com.ufpi.es.br.com.ufpi.es.eventyacademic:windowFixedHeightMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor br.com.ufpi.es.br.com.ufpi.es.eventyacademic:windowFixedHeightMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor br.com.ufpi.es.br.com.ufpi.es.eventyacademic:windowFixedWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor br.com.ufpi.es.br.com.ufpi.es.eventyacademic:windowFixedWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor br.com.ufpi.es.br.com.ufpi.es.eventyacademic:windowMinWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor br.com.ufpi.es.br.com.ufpi.es.eventyacademic:windowMinWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:windowNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -5834,7 +5836,7 @@ public final class R {
         0x7f040183, 0x7f040184, 0x7f040185
       };
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionBarDivider}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionBarDivider}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5842,11 +5844,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionBarDivider
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionBarItemBackground}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionBarItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5854,11 +5856,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionBarItemBackground
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionBarPopupTheme}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionBarPopupTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5866,11 +5868,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionBarPopupTheme
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionBarSize}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionBarSize}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5887,11 +5889,11 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionBarSize
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionBarSplitStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionBarSplitStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5899,11 +5901,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionBarSplitStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionBarStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5911,11 +5913,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionBarStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5923,11 +5925,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionBarTabBarStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionBarTabStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionBarTabStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5935,11 +5937,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionBarTabStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5947,11 +5949,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionBarTabTextStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionBarTheme}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionBarTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5959,11 +5961,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionBarTheme
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionBarWidgetTheme}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionBarWidgetTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5971,11 +5973,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionBarWidgetTheme
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionButtonStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5983,11 +5985,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionButtonStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionDropDownStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionDropDownStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5995,11 +5997,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionDropDownStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionMenuTextAppearance}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionMenuTextAppearance}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6007,11 +6009,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionMenuTextAppearance
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionMenuTextColor}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionMenuTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6022,11 +6024,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionMenuTextColor
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionModeBackground}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionModeBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6034,11 +6036,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionModeBackground
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6046,11 +6048,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionModeCloseButtonStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionModeCloseDrawable}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionModeCloseDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6058,11 +6060,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionModeCloseDrawable
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionModeCopyDrawable}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionModeCopyDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6070,11 +6072,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionModeCopyDrawable
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionModeCutDrawable}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionModeCutDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6082,11 +6084,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionModeCutDrawable
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionModeFindDrawable}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionModeFindDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6094,11 +6096,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionModeFindDrawable
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionModePasteDrawable}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionModePasteDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6106,11 +6108,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionModePasteDrawable
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionModePopupWindowStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionModePopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6118,11 +6120,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionModePopupWindowStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionModeSelectAllDrawable}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionModeSelectAllDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6130,11 +6132,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionModeSelectAllDrawable
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionModeShareDrawable}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionModeShareDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6142,11 +6144,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionModeShareDrawable
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionModeSplitBackground}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionModeSplitBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6154,11 +6156,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionModeSplitBackground
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6166,11 +6168,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionModeStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionModeWebSearchDrawable}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionModeWebSearchDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6178,11 +6180,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionModeWebSearchDrawable
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6190,11 +6192,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionOverflowButtonStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6202,11 +6204,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionOverflowMenuStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#activityChooserViewStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#activityChooserViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6214,11 +6216,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:activityChooserViewStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6226,21 +6228,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:alertDialogButtonGroupStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:alertDialogCenterButtons
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6248,11 +6250,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:alertDialogStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#alertDialogTheme}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#alertDialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6260,7 +6262,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:alertDialogTheme
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
@@ -6286,7 +6288,7 @@ public final class R {
      */
     public static final int AppCompatTheme_android_windowIsFloating=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#autoCompleteTextViewStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#autoCompleteTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6294,11 +6296,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:autoCompleteTextViewStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#borderlessButtonStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#borderlessButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6306,11 +6308,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:borderlessButtonStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#buttonBarButtonStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#buttonBarButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6318,11 +6320,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:buttonBarButtonStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#buttonBarNegativeButtonStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#buttonBarNegativeButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6330,11 +6332,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:buttonBarNegativeButtonStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#buttonBarNeutralButtonStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#buttonBarNeutralButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6342,11 +6344,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:buttonBarNeutralButtonStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#buttonBarPositiveButtonStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#buttonBarPositiveButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6354,11 +6356,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:buttonBarPositiveButtonStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#buttonBarStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#buttonBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6366,11 +6368,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:buttonBarStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#buttonStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#buttonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6378,11 +6380,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:buttonStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#buttonStyleSmall}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#buttonStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6390,11 +6392,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:buttonStyleSmall
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#checkboxStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#checkboxStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6402,11 +6404,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:checkboxStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#checkedTextViewStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#checkedTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6414,77 +6416,77 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:checkedTextViewStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#colorAccent}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#colorAccent}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:colorAccent
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#colorBackgroundFloating}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#colorBackgroundFloating}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:colorBackgroundFloating
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#colorButtonNormal}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#colorButtonNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:colorButtonNormal
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#colorControlActivated}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#colorControlActivated}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:colorControlActivated
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#colorControlHighlight}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#colorControlHighlight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:colorControlHighlight
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#colorControlNormal}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#colorControlNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:colorControlNormal
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#colorError}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#colorError}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6495,44 +6497,44 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:colorError
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#colorPrimary}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#colorPrimary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:colorPrimary
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#colorPrimaryDark}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#colorPrimaryDark}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:colorPrimaryDark
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#colorSwitchThumbNormal}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#colorSwitchThumbNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:colorSwitchThumbNormal
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#controlBackground}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#controlBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6540,11 +6542,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:controlBackground
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#dialogPreferredPadding}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#dialogPreferredPadding}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6553,11 +6555,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:dialogPreferredPadding
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=59;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#dialogTheme}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#dialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6565,11 +6567,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:dialogTheme
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=60;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#dividerHorizontal}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#dividerHorizontal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6577,11 +6579,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:dividerHorizontal
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=61;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#dividerVertical}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#dividerVertical}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6589,11 +6591,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:dividerVertical
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=62;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#dropDownListViewStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#dropDownListViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6601,11 +6603,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:dropDownListViewStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=63;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#dropdownListPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#dropdownListPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6614,11 +6616,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:dropdownListPreferredItemHeight
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=64;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#editTextBackground}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#editTextBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6626,11 +6628,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:editTextBackground
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=65;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#editTextColor}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#editTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6641,11 +6643,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:editTextColor
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=66;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#editTextStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#editTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6653,11 +6655,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:editTextStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=67;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6665,11 +6667,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:homeAsUpIndicator
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=68;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#imageButtonStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#imageButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6677,11 +6679,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:imageButtonStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=69;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#listChoiceBackgroundIndicator}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#listChoiceBackgroundIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6689,11 +6691,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:listChoiceBackgroundIndicator
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=70;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#listDividerAlertDialog}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#listDividerAlertDialog}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6701,11 +6703,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:listDividerAlertDialog
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=71;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#listMenuViewStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#listMenuViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6713,11 +6715,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:listMenuViewStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=72;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6725,11 +6727,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:listPopupWindowStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=73;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#listPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#listPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6738,11 +6740,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:listPreferredItemHeight
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=74;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#listPreferredItemHeightLarge}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#listPreferredItemHeightLarge}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6751,11 +6753,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:listPreferredItemHeightLarge
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=75;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#listPreferredItemHeightSmall}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#listPreferredItemHeightSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6764,11 +6766,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:listPreferredItemHeightSmall
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=76;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#listPreferredItemPaddingLeft}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#listPreferredItemPaddingLeft}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6777,11 +6779,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:listPreferredItemPaddingLeft
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=77;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#listPreferredItemPaddingRight}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#listPreferredItemPaddingRight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6790,11 +6792,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:listPreferredItemPaddingRight
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=78;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#panelBackground}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#panelBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6802,11 +6804,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:panelBackground
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=79;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#panelMenuListTheme}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#panelMenuListTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6814,11 +6816,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:panelMenuListTheme
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=80;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#panelMenuListWidth}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#panelMenuListWidth}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6827,11 +6829,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:panelMenuListWidth
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=81;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#popupMenuStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#popupMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6839,11 +6841,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:popupMenuStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=82;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#popupWindowStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#popupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6851,11 +6853,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:popupWindowStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=83;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#radioButtonStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#radioButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6863,11 +6865,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:radioButtonStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=84;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#ratingBarStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#ratingBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6875,11 +6877,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:ratingBarStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=85;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#ratingBarStyleIndicator}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#ratingBarStyleIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6887,11 +6889,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:ratingBarStyleIndicator
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=86;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#ratingBarStyleSmall}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#ratingBarStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6899,11 +6901,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:ratingBarStyleSmall
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=87;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#searchViewStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#searchViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6911,11 +6913,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:searchViewStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=88;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#seekBarStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#seekBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6923,11 +6925,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:seekBarStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=89;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#selectableItemBackground}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#selectableItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6935,11 +6937,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:selectableItemBackground
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=90;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#selectableItemBackgroundBorderless}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#selectableItemBackgroundBorderless}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6947,11 +6949,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:selectableItemBackgroundBorderless
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=91;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#spinnerDropDownItemStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#spinnerDropDownItemStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6959,11 +6961,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:spinnerDropDownItemStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=92;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#spinnerStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#spinnerStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6971,11 +6973,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:spinnerStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=93;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#switchStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#switchStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6983,11 +6985,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:switchStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=94;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#textAppearanceLargePopupMenu}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#textAppearanceLargePopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6995,11 +6997,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:textAppearanceLargePopupMenu
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=95;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#textAppearanceListItem}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#textAppearanceListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7007,11 +7009,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:textAppearanceListItem
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=96;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#textAppearanceListItemSecondary}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#textAppearanceListItemSecondary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7019,11 +7021,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:textAppearanceListItemSecondary
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=97;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#textAppearanceListItemSmall}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#textAppearanceListItemSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7031,11 +7033,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:textAppearanceListItemSmall
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=98;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#textAppearancePopupMenuHeader}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#textAppearancePopupMenuHeader}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7043,11 +7045,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:textAppearancePopupMenuHeader
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=99;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#textAppearanceSearchResultSubtitle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#textAppearanceSearchResultSubtitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7055,11 +7057,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:textAppearanceSearchResultSubtitle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=100;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#textAppearanceSearchResultTitle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#textAppearanceSearchResultTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7067,11 +7069,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:textAppearanceSearchResultTitle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=101;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#textAppearanceSmallPopupMenu}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#textAppearanceSmallPopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7079,11 +7081,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:textAppearanceSmallPopupMenu
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=102;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#textColorAlertDialogListItem}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#textColorAlertDialogListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7094,11 +7096,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:textColorAlertDialogListItem
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=103;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#textColorSearchUrl}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#textColorSearchUrl}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7109,11 +7111,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:textColorSearchUrl
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=104;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#toolbarNavigationButtonStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#toolbarNavigationButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7121,11 +7123,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:toolbarNavigationButtonStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=105;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#toolbarStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#toolbarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7133,11 +7135,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:toolbarStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=106;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#tooltipForegroundColor}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#tooltipForegroundColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7148,11 +7150,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:tooltipForegroundColor
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=107;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#tooltipFrameBackground}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#tooltipFrameBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7160,41 +7162,41 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:tooltipFrameBackground
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=108;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#windowActionBar}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#windowActionBar}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:windowActionBar
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=109;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#windowActionBarOverlay}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#windowActionBarOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:windowActionBarOverlay
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=110;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#windowActionModeOverlay}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#windowActionModeOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:windowActionModeOverlay
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=111;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#windowFixedHeightMajor}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#windowFixedHeightMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7207,11 +7209,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name br.com.ufpi.es.eventyacademic:windowFixedHeightMajor
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=112;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#windowFixedHeightMinor}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#windowFixedHeightMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7224,11 +7226,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name br.com.ufpi.es.eventyacademic:windowFixedHeightMinor
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=113;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#windowFixedWidthMajor}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#windowFixedWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7241,11 +7243,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name br.com.ufpi.es.eventyacademic:windowFixedWidthMajor
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=114;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#windowFixedWidthMinor}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#windowFixedWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7258,11 +7260,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name br.com.ufpi.es.eventyacademic:windowFixedWidthMinor
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=115;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#windowMinWidthMajor}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#windowMinWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7275,11 +7277,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name br.com.ufpi.es.eventyacademic:windowMinWidthMajor
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=116;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#windowMinWidthMinor}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#windowMinWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7292,17 +7294,17 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name br.com.ufpi.es.eventyacademic:windowMinWidthMinor
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=117;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#windowNoTitle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#windowNoTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:windowNoTitle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=118;
     /**
@@ -7312,11 +7314,11 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomNavigationView_elevation br.com.ufpi.es.eventyacademic:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemBackground br.com.ufpi.es.eventyacademic:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconTint br.com.ufpi.es.eventyacademic:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextColor br.com.ufpi.es.eventyacademic:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_menu br.com.ufpi.es.eventyacademic:menu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_elevation br.com.ufpi.es.br.com.ufpi.es.eventyacademic:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemBackground br.com.ufpi.es.br.com.ufpi.es.eventyacademic:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconTint br.com.ufpi.es.br.com.ufpi.es.eventyacademic:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextColor br.com.ufpi.es.br.com.ufpi.es.eventyacademic:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_menu br.com.ufpi.es.br.com.ufpi.es.eventyacademic:menu}</code></td><td></td></tr>
      * </table>
      * @see #BottomNavigationView_elevation
      * @see #BottomNavigationView_itemBackground
@@ -7329,7 +7331,7 @@ public final class R {
         0x7f0400fa
       };
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#elevation}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7338,11 +7340,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:elevation
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:elevation
      */
     public static final int BottomNavigationView_elevation=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#itemBackground}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7350,33 +7352,33 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:itemBackground
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:itemBackground
      */
     public static final int BottomNavigationView_itemBackground=1;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:itemIconTint
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:itemIconTint
      */
     public static final int BottomNavigationView_itemIconTint=2;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:itemTextColor
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:itemTextColor
      */
     public static final int BottomNavigationView_itemTextColor=3;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#menu}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#menu}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7384,7 +7386,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:menu
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:menu
      */
     public static final int BottomNavigationView_menu=4;
     /**
@@ -7394,9 +7396,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable br.com.ufpi.es.eventyacademic:behavior_hideable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight br.com.ufpi.es.eventyacademic:behavior_peekHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed br.com.ufpi.es.eventyacademic:behavior_skipCollapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable br.com.ufpi.es.br.com.ufpi.es.eventyacademic:behavior_hideable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight br.com.ufpi.es.br.com.ufpi.es.eventyacademic:behavior_peekHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed br.com.ufpi.es.br.com.ufpi.es.eventyacademic:behavior_skipCollapsed}</code></td><td></td></tr>
      * </table>
      * @see #BottomSheetBehavior_Layout_behavior_hideable
      * @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -7406,17 +7408,17 @@ public final class R {
         0x7f040038, 0x7f04003a, 0x7f04003b
       };
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#behavior_hideable}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#behavior_hideable}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:behavior_hideable
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:behavior_hideable
      */
     public static final int BottomSheetBehavior_Layout_behavior_hideable=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#behavior_peekHeight}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#behavior_peekHeight}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7433,17 +7435,17 @@ public final class R {
      * <tr><td>auto</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:behavior_peekHeight
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:behavior_peekHeight
      */
     public static final int BottomSheetBehavior_Layout_behavior_peekHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#behavior_skipCollapsed}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#behavior_skipCollapsed}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:behavior_skipCollapsed
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:behavior_skipCollapsed
      */
     public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed=2;
     /**
@@ -7453,7 +7455,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking br.com.ufpi.es.eventyacademic:allowStacking}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking br.com.ufpi.es.br.com.ufpi.es.eventyacademic:allowStacking}</code></td><td></td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
      */
@@ -7461,13 +7463,13 @@ public final class R {
         0x7f040026
       };
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#allowStacking}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#allowStacking}
      * attribute's value can be found in the {@link #ButtonBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:allowStacking
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -7477,22 +7479,22 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity br.com.ufpi.es.eventyacademic:collapsedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance br.com.ufpi.es.eventyacademic:collapsedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim br.com.ufpi.es.eventyacademic:contentScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity br.com.ufpi.es.eventyacademic:expandedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin br.com.ufpi.es.eventyacademic:expandedTitleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom br.com.ufpi.es.eventyacademic:expandedTitleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd br.com.ufpi.es.eventyacademic:expandedTitleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart br.com.ufpi.es.eventyacademic:expandedTitleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop br.com.ufpi.es.eventyacademic:expandedTitleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance br.com.ufpi.es.eventyacademic:expandedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration br.com.ufpi.es.eventyacademic:scrimAnimationDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger br.com.ufpi.es.eventyacademic:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim br.com.ufpi.es.eventyacademic:statusBarScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_title br.com.ufpi.es.eventyacademic:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled br.com.ufpi.es.eventyacademic:titleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId br.com.ufpi.es.eventyacademic:toolbarId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity br.com.ufpi.es.br.com.ufpi.es.eventyacademic:collapsedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance br.com.ufpi.es.br.com.ufpi.es.eventyacademic:collapsedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity br.com.ufpi.es.br.com.ufpi.es.eventyacademic:expandedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin br.com.ufpi.es.br.com.ufpi.es.eventyacademic:expandedTitleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom br.com.ufpi.es.br.com.ufpi.es.eventyacademic:expandedTitleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd br.com.ufpi.es.br.com.ufpi.es.eventyacademic:expandedTitleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart br.com.ufpi.es.br.com.ufpi.es.eventyacademic:expandedTitleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop br.com.ufpi.es.br.com.ufpi.es.eventyacademic:expandedTitleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance br.com.ufpi.es.br.com.ufpi.es.eventyacademic:expandedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration br.com.ufpi.es.br.com.ufpi.es.eventyacademic:scrimAnimationDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger br.com.ufpi.es.br.com.ufpi.es.eventyacademic:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim br.com.ufpi.es.br.com.ufpi.es.eventyacademic:statusBarScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_title br.com.ufpi.es.br.com.ufpi.es.eventyacademic:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled br.com.ufpi.es.br.com.ufpi.es.eventyacademic:titleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId br.com.ufpi.es.br.com.ufpi.es.eventyacademic:toolbarId}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_collapsedTitleGravity
      * @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -7524,8 +7526,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode br.com.ufpi.es.eventyacademic:layout_collapseMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier br.com.ufpi.es.eventyacademic:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_collapseMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_Layout_layout_collapseMode
      * @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -7534,7 +7536,7 @@ public final class R {
         0x7f0400b8, 0x7f0400b9
       };
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_collapseMode}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_collapseMode}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7548,20 +7550,20 @@ public final class R {
      * <tr><td>pin</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_collapseMode
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_collapseMode
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseMode=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_collapseParallaxMultiplier}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_collapseParallaxMultiplier}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_collapseParallaxMultiplier
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_collapseParallaxMultiplier
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier=1;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#collapsedTitleGravity}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#collapsedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -7582,11 +7584,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:collapsedTitleGravity
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:collapsedTitleGravity
      */
     public static final int CollapsingToolbarLayout_collapsedTitleGravity=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#collapsedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#collapsedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7594,22 +7596,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:collapsedTitleTextAppearance
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:collapsedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance=1;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#contentScrim}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#contentScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:contentScrim
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentScrim
      */
     public static final int CollapsingToolbarLayout_contentScrim=2;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#expandedTitleGravity}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#expandedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -7630,11 +7632,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:expandedTitleGravity
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:expandedTitleGravity
      */
     public static final int CollapsingToolbarLayout_expandedTitleGravity=3;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#expandedTitleMargin}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#expandedTitleMargin}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7643,11 +7645,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:expandedTitleMargin
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:expandedTitleMargin
      */
     public static final int CollapsingToolbarLayout_expandedTitleMargin=4;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#expandedTitleMarginBottom}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#expandedTitleMarginBottom}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7656,11 +7658,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:expandedTitleMarginBottom
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:expandedTitleMarginBottom
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginBottom=5;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#expandedTitleMarginEnd}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#expandedTitleMarginEnd}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7669,11 +7671,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:expandedTitleMarginEnd
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:expandedTitleMarginEnd
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginEnd=6;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#expandedTitleMarginStart}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#expandedTitleMarginStart}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7682,11 +7684,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:expandedTitleMarginStart
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:expandedTitleMarginStart
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginStart=7;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#expandedTitleMarginTop}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#expandedTitleMarginTop}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7695,11 +7697,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:expandedTitleMarginTop
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:expandedTitleMarginTop
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginTop=8;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#expandedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#expandedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7707,20 +7709,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:expandedTitleTextAppearance
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:expandedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_expandedTitleTextAppearance=9;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#scrimAnimationDuration}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#scrimAnimationDuration}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:scrimAnimationDuration
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:scrimAnimationDuration
      */
     public static final int CollapsingToolbarLayout_scrimAnimationDuration=10;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#scrimVisibleHeightTrigger}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#scrimVisibleHeightTrigger}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7729,42 +7731,42 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:scrimVisibleHeightTrigger
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:scrimVisibleHeightTrigger
      */
     public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger=11;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#statusBarScrim}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#statusBarScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:statusBarScrim
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:statusBarScrim
      */
     public static final int CollapsingToolbarLayout_statusBarScrim=12;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#title}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#title}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.com.ufpi.es.eventyacademic:title
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:title
      */
     public static final int CollapsingToolbarLayout_title=13;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#titleEnabled}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#titleEnabled}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:titleEnabled
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:titleEnabled
      */
     public static final int CollapsingToolbarLayout_titleEnabled=14;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#toolbarId}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#toolbarId}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7772,7 +7774,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:toolbarId
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:toolbarId
      */
     public static final int CollapsingToolbarLayout_toolbarId=15;
     /**
@@ -7784,7 +7786,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha br.com.ufpi.es.eventyacademic:alpha}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha br.com.ufpi.es.br.com.ufpi.es.eventyacademic:alpha}</code></td><td></td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -7794,12 +7796,12 @@ public final class R {
         0x010101a5, 0x0101031f, 0x7f040027
       };
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#alpha}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#alpha}
      * attribute's value can be found in the {@link #ColorStateListItem} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:alpha
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -7830,8 +7832,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint br.com.ufpi.es.eventyacademic:buttonTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode br.com.ufpi.es.eventyacademic:buttonTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint br.com.ufpi.es.br.com.ufpi.es.eventyacademic:buttonTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode br.com.ufpi.es.br.com.ufpi.es.eventyacademic:buttonTintMode}</code></td><td></td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -7853,18 +7855,18 @@ public final class R {
      */
     public static final int CompoundButton_android_button=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#buttonTint}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#buttonTint}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:buttonTint
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#buttonTintMode}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#buttonTintMode}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7881,7 +7883,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:buttonTintMode
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
     /**
@@ -7896,50 +7898,50 @@ public final class R {
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_maxHeight android:maxHeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet br.com.ufpi.es.eventyacademic:constraintSet}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator br.com.ufpi.es.eventyacademic:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf br.com.ufpi.es.eventyacademic:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator br.com.ufpi.es.eventyacademic:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf br.com.ufpi.es.eventyacademic:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf br.com.ufpi.es.eventyacademic:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio br.com.ufpi.es.eventyacademic:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf br.com.ufpi.es.eventyacademic:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf br.com.ufpi.es.eventyacademic:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin br.com.ufpi.es.eventyacademic:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end br.com.ufpi.es.eventyacademic:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent br.com.ufpi.es.eventyacademic:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default br.com.ufpi.es.eventyacademic:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max br.com.ufpi.es.eventyacademic:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min br.com.ufpi.es.eventyacademic:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias br.com.ufpi.es.eventyacademic:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle br.com.ufpi.es.eventyacademic:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight br.com.ufpi.es.eventyacademic:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator br.com.ufpi.es.eventyacademic:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf br.com.ufpi.es.eventyacademic:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf br.com.ufpi.es.eventyacademic:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator br.com.ufpi.es.eventyacademic:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf br.com.ufpi.es.eventyacademic:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf br.com.ufpi.es.eventyacademic:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf br.com.ufpi.es.eventyacademic:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf br.com.ufpi.es.eventyacademic:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator br.com.ufpi.es.eventyacademic:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf br.com.ufpi.es.eventyacademic:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf br.com.ufpi.es.eventyacademic:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias br.com.ufpi.es.eventyacademic:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle br.com.ufpi.es.eventyacademic:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight br.com.ufpi.es.eventyacademic:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default br.com.ufpi.es.eventyacademic:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max br.com.ufpi.es.eventyacademic:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min br.com.ufpi.es.eventyacademic:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX br.com.ufpi.es.eventyacademic:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY br.com.ufpi.es.eventyacademic:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom br.com.ufpi.es.eventyacademic:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd br.com.ufpi.es.eventyacademic:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft br.com.ufpi.es.eventyacademic:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight br.com.ufpi.es.eventyacademic:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart br.com.ufpi.es.eventyacademic:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop br.com.ufpi.es.eventyacademic:layout_goneMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel br.com.ufpi.es.eventyacademic:layout_optimizationLevel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet br.com.ufpi.es.br.com.ufpi.es.eventyacademic:constraintSet}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_optimizationLevel}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_Layout_android_orientation
      * @see #ConstraintLayout_Layout_android_maxWidth
@@ -8076,7 +8078,7 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_android_orientation=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#constraintSet}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#constraintSet}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8084,20 +8086,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:constraintSet
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:constraintSet
      */
     public static final int ConstraintLayout_Layout_constraintSet=5;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintBaseline_creator
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintBaseline_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_creator=6;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8113,20 +8115,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintBaseline_toBaselineOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf=7;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintBottom_creator
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintBottom_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_creator=8;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8142,11 +8144,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintBottom_toBottomOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toBottomOf=9;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8162,21 +8164,21 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintBottom_toTopOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toTopOf=10;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintDimensionRatio
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintDimensionRatio
      */
     public static final int ConstraintLayout_Layout_layout_constraintDimensionRatio=11;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8192,11 +8194,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintEnd_toEndOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toEndOf=12;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8212,11 +8214,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintEnd_toStartOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toStartOf=13;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8225,11 +8227,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintGuide_begin
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintGuide_begin
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_begin=14;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8238,20 +8240,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintGuide_end
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintGuide_end
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_end=15;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintGuide_percent
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintGuide_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_percent=16;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8264,11 +8266,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintHeight_default
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintHeight_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_default=17;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8277,11 +8279,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintHeight_max
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintHeight_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_max=18;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8290,20 +8292,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintHeight_min
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintHeight_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_min=19;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintHorizontal_bias
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintHorizontal_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_bias=20;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8317,29 +8319,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintHorizontal_chainStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle=21;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintHorizontal_weight
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintHorizontal_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_weight=22;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintLeft_creator
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintLeft_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_creator=23;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8355,11 +8357,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintLeft_toLeftOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toLeftOf=24;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8375,20 +8377,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintLeft_toRightOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toRightOf=25;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintRight_creator
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintRight_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_creator=26;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8404,11 +8406,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintRight_toLeftOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toLeftOf=27;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8424,11 +8426,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintRight_toRightOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintRight_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toRightOf=28;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8444,11 +8446,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintStart_toEndOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintStart_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toEndOf=29;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8464,20 +8466,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintStart_toStartOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintStart_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toStartOf=30;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintTop_creator
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintTop_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_creator=31;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8493,11 +8495,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintTop_toBottomOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toBottomOf=32;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8513,20 +8515,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintTop_toTopOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintTop_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toTopOf=33;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintVertical_bias
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintVertical_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_bias=34;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8540,20 +8542,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintVertical_chainStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_chainStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintVertical_weight
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintVertical_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_weight=36;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8566,11 +8568,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintWidth_default
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintWidth_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_default=37;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8579,11 +8581,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintWidth_max
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintWidth_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_max=38;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8592,11 +8594,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintWidth_min
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintWidth_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_min=39;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8605,11 +8607,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_editor_absoluteX
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_editor_absoluteX
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteX=40;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8618,11 +8620,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_editor_absoluteY
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_editor_absoluteY
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteY=41;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8631,11 +8633,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_goneMarginBottom
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_goneMarginBottom
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginBottom=42;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8644,11 +8646,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_goneMarginEnd
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_goneMarginEnd
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginEnd=43;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8657,11 +8659,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_goneMarginLeft
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_goneMarginLeft
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginLeft=44;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8670,11 +8672,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_goneMarginRight
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_goneMarginRight
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginRight=45;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8683,11 +8685,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_goneMarginStart
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_goneMarginStart
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginStart=46;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8696,11 +8698,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_goneMarginTop
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_goneMarginTop
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginTop=47;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_optimizationLevel}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_optimizationLevel}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -8715,7 +8717,7 @@ public final class R {
      * <tr><td>none</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_optimizationLevel
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_optimizationLevel
      */
     public static final int ConstraintLayout_Layout_layout_optimizationLevel=48;
     /**
@@ -8747,48 +8749,48 @@ public final class R {
      * <tr><td><code>{@link #ConstraintSet_android_layout_marginEnd android:layout_marginEnd}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator br.com.ufpi.es.eventyacademic:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf br.com.ufpi.es.eventyacademic:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator br.com.ufpi.es.eventyacademic:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf br.com.ufpi.es.eventyacademic:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf br.com.ufpi.es.eventyacademic:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio br.com.ufpi.es.eventyacademic:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf br.com.ufpi.es.eventyacademic:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf br.com.ufpi.es.eventyacademic:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin br.com.ufpi.es.eventyacademic:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end br.com.ufpi.es.eventyacademic:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent br.com.ufpi.es.eventyacademic:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default br.com.ufpi.es.eventyacademic:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max br.com.ufpi.es.eventyacademic:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min br.com.ufpi.es.eventyacademic:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias br.com.ufpi.es.eventyacademic:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle br.com.ufpi.es.eventyacademic:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight br.com.ufpi.es.eventyacademic:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator br.com.ufpi.es.eventyacademic:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf br.com.ufpi.es.eventyacademic:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf br.com.ufpi.es.eventyacademic:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator br.com.ufpi.es.eventyacademic:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf br.com.ufpi.es.eventyacademic:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf br.com.ufpi.es.eventyacademic:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf br.com.ufpi.es.eventyacademic:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf br.com.ufpi.es.eventyacademic:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator br.com.ufpi.es.eventyacademic:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf br.com.ufpi.es.eventyacademic:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf br.com.ufpi.es.eventyacademic:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias br.com.ufpi.es.eventyacademic:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle br.com.ufpi.es.eventyacademic:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight br.com.ufpi.es.eventyacademic:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default br.com.ufpi.es.eventyacademic:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max br.com.ufpi.es.eventyacademic:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min br.com.ufpi.es.eventyacademic:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX br.com.ufpi.es.eventyacademic:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY br.com.ufpi.es.eventyacademic:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom br.com.ufpi.es.eventyacademic:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd br.com.ufpi.es.eventyacademic:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft br.com.ufpi.es.eventyacademic:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight br.com.ufpi.es.eventyacademic:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart br.com.ufpi.es.eventyacademic:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop br.com.ufpi.es.eventyacademic:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_goneMarginTop}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintSet_android_orientation
      * @see #ConstraintSet_android_id
@@ -9168,16 +9170,16 @@ public final class R {
      */
     public static final int ConstraintSet_android_visibility=2;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintBaseline_creator
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintBaseline_creator
      */
     public static final int ConstraintSet_layout_constraintBaseline_creator=22;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9193,20 +9195,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintBaseline_toBaselineOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintSet_layout_constraintBaseline_toBaselineOf=23;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintBottom_creator
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintBottom_creator
      */
     public static final int ConstraintSet_layout_constraintBottom_creator=24;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9222,11 +9224,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintBottom_toBottomOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toBottomOf=25;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9242,21 +9244,21 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintBottom_toTopOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toTopOf=26;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintDimensionRatio
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintDimensionRatio
      */
     public static final int ConstraintSet_layout_constraintDimensionRatio=27;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9272,11 +9274,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintEnd_toEndOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toEndOf=28;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9292,11 +9294,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintEnd_toStartOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toStartOf=29;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9305,11 +9307,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintGuide_begin
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintGuide_begin
      */
     public static final int ConstraintSet_layout_constraintGuide_begin=30;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9318,20 +9320,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintGuide_end
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintGuide_end
      */
     public static final int ConstraintSet_layout_constraintGuide_end=31;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintGuide_percent
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintGuide_percent
      */
     public static final int ConstraintSet_layout_constraintGuide_percent=32;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9344,11 +9346,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintHeight_default
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintHeight_default
      */
     public static final int ConstraintSet_layout_constraintHeight_default=33;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9357,11 +9359,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintHeight_max
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintHeight_max
      */
     public static final int ConstraintSet_layout_constraintHeight_max=34;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9370,20 +9372,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintHeight_min
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintHeight_min
      */
     public static final int ConstraintSet_layout_constraintHeight_min=35;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintHorizontal_bias
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintHorizontal_bias
      */
     public static final int ConstraintSet_layout_constraintHorizontal_bias=36;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9397,29 +9399,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintHorizontal_chainStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintSet_layout_constraintHorizontal_chainStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintHorizontal_weight
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintHorizontal_weight
      */
     public static final int ConstraintSet_layout_constraintHorizontal_weight=38;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintLeft_creator
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintLeft_creator
      */
     public static final int ConstraintSet_layout_constraintLeft_creator=39;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9435,11 +9437,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintLeft_toLeftOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toLeftOf=40;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9455,20 +9457,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintLeft_toRightOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toRightOf=41;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintRight_creator
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintRight_creator
      */
     public static final int ConstraintSet_layout_constraintRight_creator=42;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9484,11 +9486,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintRight_toLeftOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintRight_toLeftOf=43;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9504,11 +9506,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintRight_toRightOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintRight_toRightOf
      */
     public static final int ConstraintSet_layout_constraintRight_toRightOf=44;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9524,11 +9526,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintStart_toEndOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintStart_toEndOf
      */
     public static final int ConstraintSet_layout_constraintStart_toEndOf=45;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9544,20 +9546,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintStart_toStartOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintStart_toStartOf
      */
     public static final int ConstraintSet_layout_constraintStart_toStartOf=46;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintTop_creator
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintTop_creator
      */
     public static final int ConstraintSet_layout_constraintTop_creator=47;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9573,11 +9575,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintTop_toBottomOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintTop_toBottomOf=48;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9593,20 +9595,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintTop_toTopOf
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintTop_toTopOf
      */
     public static final int ConstraintSet_layout_constraintTop_toTopOf=49;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintVertical_bias
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintVertical_bias
      */
     public static final int ConstraintSet_layout_constraintVertical_bias=50;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9620,20 +9622,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintVertical_chainStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintSet_layout_constraintVertical_chainStyle=51;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintVertical_weight
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintVertical_weight
      */
     public static final int ConstraintSet_layout_constraintVertical_weight=52;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9646,11 +9648,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintWidth_default
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintWidth_default
      */
     public static final int ConstraintSet_layout_constraintWidth_default=53;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9659,11 +9661,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintWidth_max
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintWidth_max
      */
     public static final int ConstraintSet_layout_constraintWidth_max=54;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9672,11 +9674,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_constraintWidth_min
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_constraintWidth_min
      */
     public static final int ConstraintSet_layout_constraintWidth_min=55;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9685,11 +9687,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_editor_absoluteX
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_editor_absoluteX
      */
     public static final int ConstraintSet_layout_editor_absoluteX=56;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9698,11 +9700,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_editor_absoluteY
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_editor_absoluteY
      */
     public static final int ConstraintSet_layout_editor_absoluteY=57;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9711,11 +9713,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_goneMarginBottom
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_goneMarginBottom
      */
     public static final int ConstraintSet_layout_goneMarginBottom=58;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9724,11 +9726,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_goneMarginEnd
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_goneMarginEnd
      */
     public static final int ConstraintSet_layout_goneMarginEnd=59;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9737,11 +9739,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_goneMarginLeft
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_goneMarginLeft
      */
     public static final int ConstraintSet_layout_goneMarginLeft=60;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9750,11 +9752,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_goneMarginRight
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_goneMarginRight
      */
     public static final int ConstraintSet_layout_goneMarginRight=61;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9763,11 +9765,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_goneMarginStart
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_goneMarginStart
      */
     public static final int ConstraintSet_layout_goneMarginStart=62;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9776,7 +9778,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_goneMarginTop
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_goneMarginTop
      */
     public static final int ConstraintSet_layout_goneMarginTop=63;
     /**
@@ -9786,8 +9788,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines br.com.ufpi.es.eventyacademic:keylines}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground br.com.ufpi.es.eventyacademic:statusBarBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_keylines br.com.ufpi.es.br.com.ufpi.es.eventyacademic:keylines}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground br.com.ufpi.es.br.com.ufpi.es.eventyacademic:statusBarBackground}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_keylines
      * @see #CoordinatorLayout_statusBarBackground
@@ -9803,12 +9805,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor br.com.ufpi.es.eventyacademic:layout_anchor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity br.com.ufpi.es.eventyacademic:layout_anchorGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior br.com.ufpi.es.eventyacademic:layout_behavior}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges br.com.ufpi.es.eventyacademic:layout_dodgeInsetEdges}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge br.com.ufpi.es.eventyacademic:layout_insetEdge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline br.com.ufpi.es.eventyacademic:layout_keyline}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_anchorGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_behavior}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_dodgeInsetEdges}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_insetEdge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_keyline}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
      * @see #CoordinatorLayout_Layout_layout_anchor
@@ -9852,7 +9854,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_Layout_android_layout_gravity=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_anchor}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_anchor}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9860,11 +9862,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_anchor
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_anchor
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_anchorGravity}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_anchorGravity}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -9889,21 +9891,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_anchorGravity
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_anchorGravity
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_behavior}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_behavior}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_behavior
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_behavior
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_dodgeInsetEdges}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_dodgeInsetEdges}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -9922,11 +9924,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_dodgeInsetEdges
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_dodgeInsetEdges
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_insetEdge}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_insetEdge}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9944,20 +9946,20 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_insetEdge
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_insetEdge
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout_keyline}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout_keyline}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout_keyline
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout_keyline
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#keylines}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#keylines}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9965,11 +9967,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:keylines
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:keylines
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#statusBarBackground}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#statusBarBackground}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9977,7 +9979,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:statusBarBackground
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:statusBarBackground
      */
     public static final int CoordinatorLayout_statusBarBackground=1;
     /**
@@ -9987,9 +9989,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme br.com.ufpi.es.eventyacademic:bottomSheetDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle br.com.ufpi.es.eventyacademic:bottomSheetStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DesignTheme_textColorError br.com.ufpi.es.eventyacademic:textColorError}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme br.com.ufpi.es.br.com.ufpi.es.eventyacademic:bottomSheetDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:bottomSheetStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_textColorError br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textColorError}</code></td><td></td></tr>
      * </table>
      * @see #DesignTheme_bottomSheetDialogTheme
      * @see #DesignTheme_bottomSheetStyle
@@ -9999,7 +10001,7 @@ public final class R {
         0x7f04003e, 0x7f04003f, 0x7f04015a
       };
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#bottomSheetDialogTheme}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#bottomSheetDialogTheme}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10007,11 +10009,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:bottomSheetDialogTheme
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:bottomSheetDialogTheme
      */
     public static final int DesignTheme_bottomSheetDialogTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#bottomSheetStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#bottomSheetStyle}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10019,11 +10021,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:bottomSheetStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:bottomSheetStyle
      */
     public static final int DesignTheme_bottomSheetStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#textColorError}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#textColorError}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10034,7 +10036,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:textColorError
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textColorError
      */
     public static final int DesignTheme_textColorError=2;
     /**
@@ -10044,14 +10046,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength br.com.ufpi.es.eventyacademic:arrowHeadLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength br.com.ufpi.es.eventyacademic:arrowShaftLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength br.com.ufpi.es.eventyacademic:barLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color br.com.ufpi.es.eventyacademic:color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize br.com.ufpi.es.eventyacademic:drawableSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars br.com.ufpi.es.eventyacademic:gapBetweenBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars br.com.ufpi.es.eventyacademic:spinBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness br.com.ufpi.es.eventyacademic:thickness}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength br.com.ufpi.es.br.com.ufpi.es.eventyacademic:arrowHeadLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength br.com.ufpi.es.br.com.ufpi.es.eventyacademic:arrowShaftLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength br.com.ufpi.es.br.com.ufpi.es.eventyacademic:barLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color br.com.ufpi.es.br.com.ufpi.es.eventyacademic:color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize br.com.ufpi.es.br.com.ufpi.es.eventyacademic:drawableSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars br.com.ufpi.es.br.com.ufpi.es.eventyacademic:gapBetweenBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars br.com.ufpi.es.br.com.ufpi.es.eventyacademic:spinBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness br.com.ufpi.es.br.com.ufpi.es.eventyacademic:thickness}</code></td><td></td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -10067,7 +10069,7 @@ public final class R {
         0x7f040076, 0x7f04009a, 0x7f04012a, 0x7f04015d
       };
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#arrowHeadLength}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#arrowHeadLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10076,11 +10078,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:arrowHeadLength
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#arrowShaftLength}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#arrowShaftLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10089,11 +10091,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:arrowShaftLength
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#barLength}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#barLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10102,22 +10104,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:barLength
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#color}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#color}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:color
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#drawableSize}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#drawableSize}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10126,11 +10128,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:drawableSize
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#gapBetweenBars}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#gapBetweenBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10139,21 +10141,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:gapBetweenBars
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#spinBars}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#spinBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:spinBars
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#thickness}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#thickness}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10162,7 +10164,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:thickness
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -10172,14 +10174,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTint br.com.ufpi.es.eventyacademic:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode br.com.ufpi.es.eventyacademic:backgroundTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_borderWidth br.com.ufpi.es.eventyacademic:borderWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_elevation br.com.ufpi.es.eventyacademic:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabSize br.com.ufpi.es.eventyacademic:fabSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ br.com.ufpi.es.eventyacademic:pressedTranslationZ}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_rippleColor br.com.ufpi.es.eventyacademic:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding br.com.ufpi.es.eventyacademic:useCompatPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTint br.com.ufpi.es.br.com.ufpi.es.eventyacademic:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode br.com.ufpi.es.br.com.ufpi.es.eventyacademic:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_borderWidth br.com.ufpi.es.br.com.ufpi.es.eventyacademic:borderWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_elevation br.com.ufpi.es.br.com.ufpi.es.eventyacademic:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabSize br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fabSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ br.com.ufpi.es.br.com.ufpi.es.eventyacademic:pressedTranslationZ}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_rippleColor br.com.ufpi.es.br.com.ufpi.es.eventyacademic:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding br.com.ufpi.es.br.com.ufpi.es.eventyacademic:useCompatPadding}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_backgroundTint
      * @see #FloatingActionButton_backgroundTintMode
@@ -10201,7 +10203,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide br.com.ufpi.es.eventyacademic:behavior_autoHide}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide br.com.ufpi.es.br.com.ufpi.es.eventyacademic:behavior_autoHide}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
      */
@@ -10209,28 +10211,28 @@ public final class R {
         0x7f040037
       };
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#behavior_autoHide}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#behavior_autoHide}
      * attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:behavior_autoHide
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:behavior_autoHide
      */
     public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:backgroundTint
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:backgroundTint
      */
     public static final int FloatingActionButton_backgroundTint=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10247,11 +10249,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:backgroundTintMode
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:backgroundTintMode
      */
     public static final int FloatingActionButton_backgroundTintMode=1;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#borderWidth}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#borderWidth}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10260,11 +10262,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:borderWidth
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:borderWidth
      */
     public static final int FloatingActionButton_borderWidth=2;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#elevation}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10273,11 +10275,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:elevation
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:elevation
      */
     public static final int FloatingActionButton_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#fabSize}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#fabSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10291,11 +10293,11 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:fabSize
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fabSize
      */
     public static final int FloatingActionButton_fabSize=4;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#pressedTranslationZ}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#pressedTranslationZ}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10304,28 +10306,28 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:pressedTranslationZ
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:pressedTranslationZ
      */
     public static final int FloatingActionButton_pressedTranslationZ=5;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#rippleColor}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:rippleColor
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:rippleColor
      */
     public static final int FloatingActionButton_rippleColor=6;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#useCompatPadding}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#useCompatPadding}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:useCompatPadding
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:useCompatPadding
      */
     public static final int FloatingActionButton_useCompatPadding=7;
     /**
@@ -10335,12 +10337,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority br.com.ufpi.es.eventyacademic:fontProviderAuthority}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts br.com.ufpi.es.eventyacademic:fontProviderCerts}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy br.com.ufpi.es.eventyacademic:fontProviderFetchStrategy}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout br.com.ufpi.es.eventyacademic:fontProviderFetchTimeout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage br.com.ufpi.es.eventyacademic:fontProviderPackage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery br.com.ufpi.es.eventyacademic:fontProviderQuery}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fontProviderAuthority}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fontProviderCerts}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fontProviderFetchStrategy}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fontProviderFetchTimeout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fontProviderPackage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fontProviderQuery}</code></td><td></td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -10363,9 +10365,9 @@ public final class R {
      * <tr><td><code>{@link #FontFamilyFont_android_font android:font}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontWeight android:fontWeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font br.com.ufpi.es.eventyacademic:font}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle br.com.ufpi.es.eventyacademic:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight br.com.ufpi.es.eventyacademic:fontWeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font br.com.ufpi.es.br.com.ufpi.es.eventyacademic:font}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fontStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fontWeight}</code></td><td></td></tr>
      * </table>
      * @see #FontFamilyFont_android_font
      * @see #FontFamilyFont_android_fontWeight
@@ -10417,7 +10419,7 @@ public final class R {
      */
     public static final int FontFamilyFont_android_fontWeight=1;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#font}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#font}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10425,11 +10427,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:font
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:font
      */
     public static final int FontFamilyFont_font=3;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#fontStyle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#fontStyle}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10442,30 +10444,30 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:fontStyle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#fontWeight}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#fontWeight}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:fontWeight
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=5;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#fontProviderAuthority}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#fontProviderAuthority}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.com.ufpi.es.eventyacademic:fontProviderAuthority
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#fontProviderCerts}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#fontProviderCerts}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10473,11 +10475,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:fontProviderCerts
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#fontProviderFetchStrategy}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#fontProviderFetchStrategy}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10490,11 +10492,11 @@ public final class R {
      * <tr><td>blocking</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:fontProviderFetchStrategy
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#fontProviderFetchTimeout}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#fontProviderFetchTimeout}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -10507,27 +10509,27 @@ public final class R {
      * <tr><td>forever</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:fontProviderFetchTimeout
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#fontProviderPackage}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#fontProviderPackage}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.com.ufpi.es.eventyacademic:fontProviderPackage
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#fontProviderQuery}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#fontProviderQuery}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.com.ufpi.es.eventyacademic:fontProviderQuery
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -10539,7 +10541,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding br.com.ufpi.es.eventyacademic:foregroundInsidePadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding br.com.ufpi.es.br.com.ufpi.es.eventyacademic:foregroundInsidePadding}</code></td><td></td></tr>
      * </table>
      * @see #ForegroundLinearLayout_android_foreground
      * @see #ForegroundLinearLayout_android_foregroundGravity
@@ -10591,13 +10593,13 @@ public final class R {
      */
     public static final int ForegroundLinearLayout_android_foregroundGravity=1;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#foregroundInsidePadding}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#foregroundInsidePadding}
      * attribute's value can be found in the {@link #ForegroundLinearLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:foregroundInsidePadding
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:foregroundInsidePadding
      */
     public static final int ForegroundLinearLayout_foregroundInsidePadding=2;
     /**
@@ -10643,10 +10645,10 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider br.com.ufpi.es.eventyacademic:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding br.com.ufpi.es.eventyacademic:dividerPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild br.com.ufpi.es.eventyacademic:measureWithLargestChild}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers br.com.ufpi.es.eventyacademic:showDividers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_divider br.com.ufpi.es.br.com.ufpi.es.eventyacademic:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding br.com.ufpi.es.br.com.ufpi.es.eventyacademic:dividerPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild br.com.ufpi.es.br.com.ufpi.es.eventyacademic:measureWithLargestChild}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers br.com.ufpi.es.br.com.ufpi.es.eventyacademic:showDividers}</code></td><td></td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -10842,7 +10844,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_weightSum=4;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#divider}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#divider}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10850,11 +10852,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:divider
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#dividerPadding}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#dividerPadding}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10863,21 +10865,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:dividerPadding
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#measureWithLargestChild}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#measureWithLargestChild}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:measureWithLargestChild
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#showDividers}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#showDividers}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10892,7 +10894,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:showDividers
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -11060,16 +11062,16 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout br.com.ufpi.es.eventyacademic:actionLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass br.com.ufpi.es.eventyacademic:actionProviderClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass br.com.ufpi.es.eventyacademic:actionViewClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers br.com.ufpi.es.eventyacademic:alphabeticModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription br.com.ufpi.es.eventyacademic:contentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint br.com.ufpi.es.eventyacademic:iconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode br.com.ufpi.es.eventyacademic:iconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers br.com.ufpi.es.eventyacademic:numericModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction br.com.ufpi.es.eventyacademic:showAsAction}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText br.com.ufpi.es.eventyacademic:tooltipText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionLayout br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionProviderClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionViewClass br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionViewClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers br.com.ufpi.es.br.com.ufpi.es.eventyacademic:alphabeticModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint br.com.ufpi.es.br.com.ufpi.es.eventyacademic:iconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode br.com.ufpi.es.br.com.ufpi.es.eventyacademic:iconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers br.com.ufpi.es.br.com.ufpi.es.eventyacademic:numericModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction br.com.ufpi.es.br.com.ufpi.es.eventyacademic:showAsAction}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tooltipText}</code></td><td></td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -11104,7 +11106,7 @@ public final class R {
         0x7f0400ff, 0x7f040124, 0x7f040176
       };
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionLayout}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionLayout}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11112,31 +11114,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionLayout
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionProviderClass}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionProviderClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionProviderClass
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#actionViewClass}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#actionViewClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.com.ufpi.es.eventyacademic:actionViewClass
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#alphabeticModifiers}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#alphabeticModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11153,7 +11155,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:alphabeticModifiers
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
@@ -11299,28 +11301,28 @@ public final class R {
      */
     public static final int MenuItem_android_visible=4;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#contentDescription}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#contentDescription}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.com.ufpi.es.eventyacademic:contentDescription
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#iconTint}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#iconTint}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:iconTint
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#iconTintMode}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#iconTintMode}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11337,11 +11339,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:iconTintMode
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#numericModifiers}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#numericModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11358,11 +11360,11 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:numericModifiers
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#showAsAction}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#showAsAction}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11378,17 +11380,17 @@ public final class R {
      * <tr><td>withText</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:showAsAction
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#tooltipText}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#tooltipText}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.com.ufpi.es.eventyacademic:tooltipText
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -11405,8 +11407,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing br.com.ufpi.es.eventyacademic:preserveIconSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow br.com.ufpi.es.eventyacademic:subMenuArrow}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing br.com.ufpi.es.br.com.ufpi.es.eventyacademic:preserveIconSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow br.com.ufpi.es.br.com.ufpi.es.eventyacademic:subMenuArrow}</code></td><td></td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -11511,17 +11513,17 @@ public final class R {
      */
     public static final int MenuView_android_windowAnimationStyle=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#preserveIconSpacing}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#preserveIconSpacing}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:preserveIconSpacing
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#subMenuArrow}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#subMenuArrow}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11529,7 +11531,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:subMenuArrow
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -11542,13 +11544,13 @@ public final class R {
      * <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_elevation br.com.ufpi.es.eventyacademic:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_headerLayout br.com.ufpi.es.eventyacademic:headerLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemBackground br.com.ufpi.es.eventyacademic:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconTint br.com.ufpi.es.eventyacademic:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextAppearance br.com.ufpi.es.eventyacademic:itemTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextColor br.com.ufpi.es.eventyacademic:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_menu br.com.ufpi.es.eventyacademic:menu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_elevation br.com.ufpi.es.br.com.ufpi.es.eventyacademic:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_headerLayout br.com.ufpi.es.br.com.ufpi.es.eventyacademic:headerLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemBackground br.com.ufpi.es.br.com.ufpi.es.eventyacademic:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconTint br.com.ufpi.es.br.com.ufpi.es.eventyacademic:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextAppearance br.com.ufpi.es.br.com.ufpi.es.eventyacademic:itemTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextColor br.com.ufpi.es.br.com.ufpi.es.eventyacademic:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_menu br.com.ufpi.es.br.com.ufpi.es.eventyacademic:menu}</code></td><td></td></tr>
      * </table>
      * @see #NavigationView_android_background
      * @see #NavigationView_android_fitsSystemWindows
@@ -11605,7 +11607,7 @@ public final class R {
      */
     public static final int NavigationView_android_maxWidth=2;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#elevation}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11614,11 +11616,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:elevation
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:elevation
      */
     public static final int NavigationView_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#headerLayout}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#headerLayout}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11626,11 +11628,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:headerLayout
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:headerLayout
      */
     public static final int NavigationView_headerLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#itemBackground}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11638,22 +11640,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:itemBackground
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:itemBackground
      */
     public static final int NavigationView_itemBackground=5;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:itemIconTint
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:itemIconTint
      */
     public static final int NavigationView_itemIconTint=6;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#itemTextAppearance}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#itemTextAppearance}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11661,22 +11663,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:itemTextAppearance
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:itemTextAppearance
      */
     public static final int NavigationView_itemTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:itemTextColor
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:itemTextColor
      */
     public static final int NavigationView_itemTextColor=8;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#menu}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#menu}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11684,7 +11686,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:menu
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:menu
      */
     public static final int NavigationView_menu=9;
     /**
@@ -11696,7 +11698,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor br.com.ufpi.es.eventyacademic:overlapAnchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor br.com.ufpi.es.br.com.ufpi.es.eventyacademic:overlapAnchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -11712,7 +11714,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor br.com.ufpi.es.eventyacademic:state_above_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor br.com.ufpi.es.br.com.ufpi.es.eventyacademic:state_above_anchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -11720,13 +11722,13 @@ public final class R {
         0x7f040130
       };
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#state_above_anchor}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#state_above_anchor}
      * attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:state_above_anchor
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -11757,13 +11759,13 @@ public final class R {
      */
     public static final int PopupWindow_android_popupBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#overlapAnchor}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#overlapAnchor}
      * attribute's value can be found in the {@link #PopupWindow} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:overlapAnchor
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -11773,8 +11775,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons br.com.ufpi.es.eventyacademic:paddingBottomNoButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle br.com.ufpi.es.eventyacademic:paddingTopNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons br.com.ufpi.es.br.com.ufpi.es.eventyacademic:paddingBottomNoButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:paddingTopNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -11783,7 +11785,7 @@ public final class R {
         0x7f040101, 0x7f040104
       };
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#paddingBottomNoButtons}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#paddingBottomNoButtons}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11792,11 +11794,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:paddingBottomNoButtons
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#paddingTopNoTitle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#paddingTopNoTitle}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11805,7 +11807,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:paddingTopNoTitle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -11817,15 +11819,15 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
      * <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled br.com.ufpi.es.eventyacademic:fastScrollEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable br.com.ufpi.es.eventyacademic:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable br.com.ufpi.es.eventyacademic:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable br.com.ufpi.es.eventyacademic:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable br.com.ufpi.es.eventyacademic:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_layoutManager br.com.ufpi.es.eventyacademic:layoutManager}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_reverseLayout br.com.ufpi.es.eventyacademic:reverseLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_spanCount br.com.ufpi.es.eventyacademic:spanCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_stackFromEnd br.com.ufpi.es.eventyacademic:stackFromEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fastScrollEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_layoutManager br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layoutManager}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_reverseLayout br.com.ufpi.es.br.com.ufpi.es.eventyacademic:reverseLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_spanCount br.com.ufpi.es.br.com.ufpi.es.eventyacademic:spanCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_stackFromEnd br.com.ufpi.es.br.com.ufpi.es.eventyacademic:stackFromEnd}</code></td><td></td></tr>
      * </table>
      * @see #RecyclerView_android_orientation
      * @see #RecyclerView_android_descendantFocusability
@@ -11880,17 +11882,17 @@ public final class R {
      */
     public static final int RecyclerView_android_orientation=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#fastScrollEnabled}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#fastScrollEnabled}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:fastScrollEnabled
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fastScrollEnabled
      */
     public static final int RecyclerView_fastScrollEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#fastScrollHorizontalThumbDrawable}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#fastScrollHorizontalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11898,11 +11900,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:fastScrollHorizontalThumbDrawable
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fastScrollHorizontalThumbDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalThumbDrawable=3;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#fastScrollHorizontalTrackDrawable}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#fastScrollHorizontalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11910,11 +11912,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:fastScrollHorizontalTrackDrawable
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fastScrollHorizontalTrackDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalTrackDrawable=4;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#fastScrollVerticalThumbDrawable}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#fastScrollVerticalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11922,11 +11924,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:fastScrollVerticalThumbDrawable
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fastScrollVerticalThumbDrawable
      */
     public static final int RecyclerView_fastScrollVerticalThumbDrawable=5;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#fastScrollVerticalTrackDrawable}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#fastScrollVerticalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11934,46 +11936,46 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:fastScrollVerticalTrackDrawable
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fastScrollVerticalTrackDrawable
      */
     public static final int RecyclerView_fastScrollVerticalTrackDrawable=6;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layoutManager}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layoutManager}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layoutManager
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layoutManager
      */
     public static final int RecyclerView_layoutManager=7;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#reverseLayout}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#reverseLayout}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:reverseLayout
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:reverseLayout
      */
     public static final int RecyclerView_reverseLayout=8;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#spanCount}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#spanCount}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:spanCount
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:spanCount
      */
     public static final int RecyclerView_spanCount=9;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#stackFromEnd}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#stackFromEnd}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:stackFromEnd
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:stackFromEnd
      */
     public static final int RecyclerView_stackFromEnd=10;
     /**
@@ -11983,7 +11985,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground br.com.ufpi.es.eventyacademic:insetForeground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground br.com.ufpi.es.br.com.ufpi.es.eventyacademic:insetForeground}</code></td><td></td></tr>
      * </table>
      * @see #ScrimInsetsFrameLayout_insetForeground
      */
@@ -11991,7 +11993,7 @@ public final class R {
         0x7f0400ab
       };
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#insetForeground}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#insetForeground}
      * attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12002,7 +12004,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:insetForeground
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:insetForeground
      */
     public static final int ScrimInsetsFrameLayout_insetForeground=0;
     /**
@@ -12012,7 +12014,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop br.com.ufpi.es.eventyacademic:behavior_overlapTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop br.com.ufpi.es.br.com.ufpi.es.eventyacademic:behavior_overlapTop}</code></td><td></td></tr>
      * </table>
      * @see #ScrollingViewBehavior_Layout_behavior_overlapTop
      */
@@ -12020,7 +12022,7 @@ public final class R {
         0x7f040039
       };
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#behavior_overlapTop}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#behavior_overlapTop}
      * attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12029,7 +12031,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:behavior_overlapTop
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:behavior_overlapTop
      */
     public static final int ScrollingViewBehavior_Layout_behavior_overlapTop=0;
     /**
@@ -12043,19 +12045,19 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon br.com.ufpi.es.eventyacademic:closeIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon br.com.ufpi.es.eventyacademic:commitIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint br.com.ufpi.es.eventyacademic:defaultQueryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon br.com.ufpi.es.eventyacademic:goIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault br.com.ufpi.es.eventyacademic:iconifiedByDefault}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_layout br.com.ufpi.es.eventyacademic:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground br.com.ufpi.es.eventyacademic:queryBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint br.com.ufpi.es.eventyacademic:queryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon br.com.ufpi.es.eventyacademic:searchHintIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon br.com.ufpi.es.eventyacademic:searchIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground br.com.ufpi.es.eventyacademic:submitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout br.com.ufpi.es.eventyacademic:suggestionRowLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon br.com.ufpi.es.eventyacademic:voiceIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_closeIcon br.com.ufpi.es.br.com.ufpi.es.eventyacademic:closeIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon br.com.ufpi.es.br.com.ufpi.es.eventyacademic:commitIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint br.com.ufpi.es.br.com.ufpi.es.eventyacademic:defaultQueryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon br.com.ufpi.es.br.com.ufpi.es.eventyacademic:goIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault br.com.ufpi.es.br.com.ufpi.es.eventyacademic:iconifiedByDefault}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_layout br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground br.com.ufpi.es.br.com.ufpi.es.eventyacademic:queryBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint br.com.ufpi.es.br.com.ufpi.es.eventyacademic:queryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon br.com.ufpi.es.br.com.ufpi.es.eventyacademic:searchHintIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon br.com.ufpi.es.br.com.ufpi.es.eventyacademic:searchIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground br.com.ufpi.es.br.com.ufpi.es.eventyacademic:submitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout br.com.ufpi.es.br.com.ufpi.es.eventyacademic:suggestionRowLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon br.com.ufpi.es.br.com.ufpi.es.eventyacademic:voiceIcon}</code></td><td></td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -12193,7 +12195,7 @@ public final class R {
      */
     public static final int SearchView_android_maxWidth=1;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#closeIcon}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#closeIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12201,11 +12203,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:closeIcon
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#commitIcon}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#commitIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12213,21 +12215,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:commitIcon
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#defaultQueryHint}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#defaultQueryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.com.ufpi.es.eventyacademic:defaultQueryHint
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#goIcon}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#goIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12235,21 +12237,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:goIcon
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#iconifiedByDefault}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#iconifiedByDefault}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:iconifiedByDefault
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#layout}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#layout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12257,11 +12259,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:layout
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:layout
      */
     public static final int SearchView_layout=9;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#queryBackground}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#queryBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12269,21 +12271,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:queryBackground
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#queryHint}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#queryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.com.ufpi.es.eventyacademic:queryHint
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#searchHintIcon}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#searchHintIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12291,11 +12293,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:searchHintIcon
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#searchIcon}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#searchIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12303,11 +12305,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:searchIcon
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#submitBackground}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#submitBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12315,11 +12317,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:submitBackground
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#suggestionRowLayout}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#suggestionRowLayout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12327,11 +12329,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:suggestionRowLayout
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#voiceIcon}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#voiceIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12339,7 +12341,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:voiceIcon
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -12350,8 +12352,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_elevation br.com.ufpi.es.eventyacademic:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth br.com.ufpi.es.eventyacademic:maxActionInlineWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_elevation br.com.ufpi.es.br.com.ufpi.es.eventyacademic:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth br.com.ufpi.es.br.com.ufpi.es.eventyacademic:maxActionInlineWidth}</code></td><td></td></tr>
      * </table>
      * @see #SnackbarLayout_android_maxWidth
      * @see #SnackbarLayout_elevation
@@ -12374,7 +12376,7 @@ public final class R {
      */
     public static final int SnackbarLayout_android_maxWidth=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#elevation}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12383,11 +12385,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:elevation
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:elevation
      */
     public static final int SnackbarLayout_elevation=1;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#maxActionInlineWidth}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#maxActionInlineWidth}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12396,7 +12398,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:maxActionInlineWidth
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:maxActionInlineWidth
      */
     public static final int SnackbarLayout_maxActionInlineWidth=2;
     /**
@@ -12410,7 +12412,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme br.com.ufpi.es.eventyacademic:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Spinner_popupTheme br.com.ufpi.es.br.com.ufpi.es.eventyacademic:popupTheme}</code></td><td></td></tr>
      * </table>
      * @see #Spinner_android_entries
      * @see #Spinner_android_popupBackground
@@ -12485,7 +12487,7 @@ public final class R {
      */
     public static final int Spinner_android_prompt=2;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12493,7 +12495,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:popupTheme
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -12506,17 +12508,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText br.com.ufpi.es.eventyacademic:showText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack br.com.ufpi.es.eventyacademic:splitTrack}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth br.com.ufpi.es.eventyacademic:switchMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding br.com.ufpi.es.eventyacademic:switchPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance br.com.ufpi.es.eventyacademic:switchTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding br.com.ufpi.es.eventyacademic:thumbTextPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint br.com.ufpi.es.eventyacademic:thumbTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode br.com.ufpi.es.eventyacademic:thumbTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track br.com.ufpi.es.eventyacademic:track}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint br.com.ufpi.es.eventyacademic:trackTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode br.com.ufpi.es.eventyacademic:trackTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText br.com.ufpi.es.br.com.ufpi.es.eventyacademic:showText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack br.com.ufpi.es.br.com.ufpi.es.eventyacademic:splitTrack}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth br.com.ufpi.es.br.com.ufpi.es.eventyacademic:switchMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding br.com.ufpi.es.br.com.ufpi.es.eventyacademic:switchPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance br.com.ufpi.es.br.com.ufpi.es.eventyacademic:switchTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding br.com.ufpi.es.br.com.ufpi.es.eventyacademic:thumbTextPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint br.com.ufpi.es.br.com.ufpi.es.eventyacademic:thumbTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode br.com.ufpi.es.br.com.ufpi.es.eventyacademic:thumbTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track br.com.ufpi.es.br.com.ufpi.es.eventyacademic:track}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint br.com.ufpi.es.br.com.ufpi.es.eventyacademic:trackTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode br.com.ufpi.es.br.com.ufpi.es.eventyacademic:trackTintMode}</code></td><td></td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -12572,27 +12574,27 @@ public final class R {
      */
     public static final int SwitchCompat_android_thumb=2;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#showText}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#showText}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:showText
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#splitTrack}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#splitTrack}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:splitTrack
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#switchMinWidth}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#switchMinWidth}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12601,11 +12603,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:switchMinWidth
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#switchPadding}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#switchPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12614,11 +12616,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:switchPadding
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#switchTextAppearance}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#switchTextAppearance}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12626,11 +12628,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:switchTextAppearance
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#thumbTextPadding}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#thumbTextPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12639,22 +12641,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:thumbTextPadding
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#thumbTint}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#thumbTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:thumbTint
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#thumbTintMode}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#thumbTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12671,11 +12673,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:thumbTintMode
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#track}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#track}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12683,22 +12685,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:track
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:track
      */
     public static final int SwitchCompat_track=11;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#trackTint}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#trackTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:trackTint
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#trackTintMode}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#trackTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12715,7 +12717,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:trackTintMode
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -12777,22 +12779,22 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #TabLayout_tabBackground br.com.ufpi.es.eventyacademic:tabBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabContentStart br.com.ufpi.es.eventyacademic:tabContentStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabGravity br.com.ufpi.es.eventyacademic:tabGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorColor br.com.ufpi.es.eventyacademic:tabIndicatorColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight br.com.ufpi.es.eventyacademic:tabIndicatorHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMaxWidth br.com.ufpi.es.eventyacademic:tabMaxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMinWidth br.com.ufpi.es.eventyacademic:tabMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMode br.com.ufpi.es.eventyacademic:tabMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPadding br.com.ufpi.es.eventyacademic:tabPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingBottom br.com.ufpi.es.eventyacademic:tabPaddingBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingEnd br.com.ufpi.es.eventyacademic:tabPaddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingStart br.com.ufpi.es.eventyacademic:tabPaddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingTop br.com.ufpi.es.eventyacademic:tabPaddingTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor br.com.ufpi.es.eventyacademic:tabSelectedTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextAppearance br.com.ufpi.es.eventyacademic:tabTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextColor br.com.ufpi.es.eventyacademic:tabTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabBackground br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabContentStart br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabContentStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabGravity br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorColor br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabIndicatorColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabIndicatorHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMaxWidth br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabMaxWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMinWidth br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMode br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPadding br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingBottom br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabPaddingBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingEnd br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabPaddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingStart br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabPaddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingTop br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabSelectedTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextAppearance br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextColor br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabTextColor}</code></td><td></td></tr>
      * </table>
      * @see #TabLayout_tabBackground
      * @see #TabLayout_tabContentStart
@@ -12818,7 +12820,7 @@ public final class R {
         0x7f04014c, 0x7f04014d, 0x7f04014e, 0x7f04014f
       };
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#tabBackground}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#tabBackground}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12826,11 +12828,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:tabBackground
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabBackground
      */
     public static final int TabLayout_tabBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#tabContentStart}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#tabContentStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12839,11 +12841,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:tabContentStart
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabContentStart
      */
     public static final int TabLayout_tabContentStart=1;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#tabGravity}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#tabGravity}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12856,22 +12858,22 @@ public final class R {
      * <tr><td>fill</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:tabGravity
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabGravity
      */
     public static final int TabLayout_tabGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#tabIndicatorColor}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#tabIndicatorColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:tabIndicatorColor
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabIndicatorColor
      */
     public static final int TabLayout_tabIndicatorColor=3;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#tabIndicatorHeight}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#tabIndicatorHeight}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12880,11 +12882,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:tabIndicatorHeight
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabIndicatorHeight
      */
     public static final int TabLayout_tabIndicatorHeight=4;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#tabMaxWidth}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#tabMaxWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12893,11 +12895,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:tabMaxWidth
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabMaxWidth
      */
     public static final int TabLayout_tabMaxWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#tabMinWidth}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#tabMinWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12906,11 +12908,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:tabMinWidth
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabMinWidth
      */
     public static final int TabLayout_tabMinWidth=6;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#tabMode}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#tabMode}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12923,11 +12925,11 @@ public final class R {
      * <tr><td>scrollable</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:tabMode
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabMode
      */
     public static final int TabLayout_tabMode=7;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#tabPadding}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#tabPadding}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12936,11 +12938,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:tabPadding
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabPadding
      */
     public static final int TabLayout_tabPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#tabPaddingBottom}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#tabPaddingBottom}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12949,11 +12951,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:tabPaddingBottom
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabPaddingBottom
      */
     public static final int TabLayout_tabPaddingBottom=9;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#tabPaddingEnd}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#tabPaddingEnd}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12962,11 +12964,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:tabPaddingEnd
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabPaddingEnd
      */
     public static final int TabLayout_tabPaddingEnd=10;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#tabPaddingStart}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#tabPaddingStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12975,11 +12977,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:tabPaddingStart
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabPaddingStart
      */
     public static final int TabLayout_tabPaddingStart=11;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#tabPaddingTop}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#tabPaddingTop}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12988,22 +12990,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:tabPaddingTop
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabPaddingTop
      */
     public static final int TabLayout_tabPaddingTop=12;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#tabSelectedTextColor}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#tabSelectedTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:tabSelectedTextColor
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabSelectedTextColor
      */
     public static final int TabLayout_tabSelectedTextColor=13;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#tabTextAppearance}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#tabTextAppearance}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13011,18 +13013,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:tabTextAppearance
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabTextAppearance
      */
     public static final int TabLayout_tabTextAppearance=14;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#tabTextColor}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#tabTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:tabTextColor
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:tabTextColor
      */
     public static final int TabLayout_tabTextColor=15;
     /**
@@ -13043,8 +13045,8 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily br.com.ufpi.es.eventyacademic:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps br.com.ufpi.es.eventyacademic:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontFamily br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -13210,17 +13212,17 @@ public final class R {
      */
     public static final int TextAppearance_android_typeface=1;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#fontFamily}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.com.ufpi.es.eventyacademic:fontFamily
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:fontFamily
      */
     public static final int TextAppearance_fontFamily=11;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13230,7 +13232,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:textAllCaps
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=12;
     /**
@@ -13242,20 +13244,20 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterEnabled br.com.ufpi.es.eventyacademic:counterEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterMaxLength br.com.ufpi.es.eventyacademic:counterMaxLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance br.com.ufpi.es.eventyacademic:counterOverflowTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance br.com.ufpi.es.eventyacademic:counterTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorEnabled br.com.ufpi.es.eventyacademic:errorEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance br.com.ufpi.es.eventyacademic:errorTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled br.com.ufpi.es.eventyacademic:hintAnimationEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintEnabled br.com.ufpi.es.eventyacademic:hintEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance br.com.ufpi.es.eventyacademic:hintTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription br.com.ufpi.es.eventyacademic:passwordToggleContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable br.com.ufpi.es.eventyacademic:passwordToggleDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled br.com.ufpi.es.eventyacademic:passwordToggleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint br.com.ufpi.es.eventyacademic:passwordToggleTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode br.com.ufpi.es.eventyacademic:passwordToggleTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterEnabled br.com.ufpi.es.br.com.ufpi.es.eventyacademic:counterEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterMaxLength br.com.ufpi.es.br.com.ufpi.es.eventyacademic:counterMaxLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance br.com.ufpi.es.br.com.ufpi.es.eventyacademic:counterOverflowTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance br.com.ufpi.es.br.com.ufpi.es.eventyacademic:counterTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorEnabled br.com.ufpi.es.br.com.ufpi.es.eventyacademic:errorEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance br.com.ufpi.es.br.com.ufpi.es.eventyacademic:errorTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled br.com.ufpi.es.br.com.ufpi.es.eventyacademic:hintAnimationEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintEnabled br.com.ufpi.es.br.com.ufpi.es.eventyacademic:hintEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance br.com.ufpi.es.br.com.ufpi.es.eventyacademic:hintTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription br.com.ufpi.es.br.com.ufpi.es.eventyacademic:passwordToggleContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable br.com.ufpi.es.br.com.ufpi.es.eventyacademic:passwordToggleDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled br.com.ufpi.es.br.com.ufpi.es.eventyacademic:passwordToggleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint br.com.ufpi.es.br.com.ufpi.es.eventyacademic:passwordToggleTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode br.com.ufpi.es.br.com.ufpi.es.eventyacademic:passwordToggleTintMode}</code></td><td></td></tr>
      * </table>
      * @see #TextInputLayout_android_textColorHint
      * @see #TextInputLayout_android_hint
@@ -13306,26 +13308,26 @@ public final class R {
      */
     public static final int TextInputLayout_android_textColorHint=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#counterEnabled}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#counterEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:counterEnabled
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:counterEnabled
      */
     public static final int TextInputLayout_counterEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#counterMaxLength}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#counterMaxLength}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:counterMaxLength
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:counterMaxLength
      */
     public static final int TextInputLayout_counterMaxLength=3;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#counterOverflowTextAppearance}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#counterOverflowTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13333,11 +13335,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:counterOverflowTextAppearance
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:counterOverflowTextAppearance
      */
     public static final int TextInputLayout_counterOverflowTextAppearance=4;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#counterTextAppearance}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#counterTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13345,21 +13347,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:counterTextAppearance
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:counterTextAppearance
      */
     public static final int TextInputLayout_counterTextAppearance=5;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#errorEnabled}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#errorEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:errorEnabled
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:errorEnabled
      */
     public static final int TextInputLayout_errorEnabled=6;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#errorTextAppearance}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#errorTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13367,31 +13369,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:errorTextAppearance
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:errorTextAppearance
      */
     public static final int TextInputLayout_errorTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#hintAnimationEnabled}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#hintAnimationEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:hintAnimationEnabled
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:hintAnimationEnabled
      */
     public static final int TextInputLayout_hintAnimationEnabled=8;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#hintEnabled}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#hintEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:hintEnabled
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:hintEnabled
      */
     public static final int TextInputLayout_hintEnabled=9;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#hintTextAppearance}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#hintTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13399,21 +13401,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:hintTextAppearance
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:hintTextAppearance
      */
     public static final int TextInputLayout_hintTextAppearance=10;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#passwordToggleContentDescription}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#passwordToggleContentDescription}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.com.ufpi.es.eventyacademic:passwordToggleContentDescription
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:passwordToggleContentDescription
      */
     public static final int TextInputLayout_passwordToggleContentDescription=11;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#passwordToggleDrawable}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#passwordToggleDrawable}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13421,32 +13423,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:passwordToggleDrawable
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:passwordToggleDrawable
      */
     public static final int TextInputLayout_passwordToggleDrawable=12;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#passwordToggleEnabled}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#passwordToggleEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:passwordToggleEnabled
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:passwordToggleEnabled
      */
     public static final int TextInputLayout_passwordToggleEnabled=13;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#passwordToggleTint}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#passwordToggleTint}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:passwordToggleTint
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:passwordToggleTint
      */
     public static final int TextInputLayout_passwordToggleTint=14;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#passwordToggleTintMode}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#passwordToggleTintMode}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13462,7 +13464,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:passwordToggleTintMode
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:passwordToggleTintMode
      */
     public static final int TextInputLayout_passwordToggleTintMode=15;
     /**
@@ -13474,33 +13476,33 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity br.com.ufpi.es.eventyacademic:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription br.com.ufpi.es.eventyacademic:collapseContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon br.com.ufpi.es.eventyacademic:collapseIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd br.com.ufpi.es.eventyacademic:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions br.com.ufpi.es.eventyacademic:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft br.com.ufpi.es.eventyacademic:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight br.com.ufpi.es.eventyacademic:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart br.com.ufpi.es.eventyacademic:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation br.com.ufpi.es.eventyacademic:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logo br.com.ufpi.es.eventyacademic:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription br.com.ufpi.es.eventyacademic:logoDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight br.com.ufpi.es.eventyacademic:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription br.com.ufpi.es.eventyacademic:navigationContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon br.com.ufpi.es.eventyacademic:navigationIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme br.com.ufpi.es.eventyacademic:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle br.com.ufpi.es.eventyacademic:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance br.com.ufpi.es.eventyacademic:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor br.com.ufpi.es.eventyacademic:subtitleTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_title br.com.ufpi.es.eventyacademic:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin br.com.ufpi.es.eventyacademic:titleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom br.com.ufpi.es.eventyacademic:titleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd br.com.ufpi.es.eventyacademic:titleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart br.com.ufpi.es.eventyacademic:titleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop br.com.ufpi.es.eventyacademic:titleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins br.com.ufpi.es.eventyacademic:titleMargins}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance br.com.ufpi.es.eventyacademic:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor br.com.ufpi.es.eventyacademic:titleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_buttonGravity br.com.ufpi.es.br.com.ufpi.es.eventyacademic:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription br.com.ufpi.es.br.com.ufpi.es.eventyacademic:collapseContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon br.com.ufpi.es.br.com.ufpi.es.eventyacademic:collapseIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logo br.com.ufpi.es.br.com.ufpi.es.eventyacademic:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription br.com.ufpi.es.br.com.ufpi.es.eventyacademic:logoDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight br.com.ufpi.es.br.com.ufpi.es.eventyacademic:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription br.com.ufpi.es.br.com.ufpi.es.eventyacademic:navigationContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationIcon br.com.ufpi.es.br.com.ufpi.es.eventyacademic:navigationIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_popupTheme br.com.ufpi.es.br.com.ufpi.es.eventyacademic:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitle br.com.ufpi.es.br.com.ufpi.es.eventyacademic:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance br.com.ufpi.es.br.com.ufpi.es.eventyacademic:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor br.com.ufpi.es.br.com.ufpi.es.eventyacademic:subtitleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_title br.com.ufpi.es.br.com.ufpi.es.eventyacademic:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin br.com.ufpi.es.br.com.ufpi.es.eventyacademic:titleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom br.com.ufpi.es.br.com.ufpi.es.eventyacademic:titleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd br.com.ufpi.es.br.com.ufpi.es.eventyacademic:titleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart br.com.ufpi.es.br.com.ufpi.es.eventyacademic:titleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop br.com.ufpi.es.br.com.ufpi.es.eventyacademic:titleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins br.com.ufpi.es.br.com.ufpi.es.eventyacademic:titleMargins}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance br.com.ufpi.es.br.com.ufpi.es.eventyacademic:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor br.com.ufpi.es.br.com.ufpi.es.eventyacademic:titleTextColor}</code></td><td></td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -13585,7 +13587,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -13598,21 +13600,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:buttonGravity
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#collapseContentDescription}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#collapseContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.com.ufpi.es.eventyacademic:collapseContentDescription
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#collapseIcon}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#collapseIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13620,11 +13622,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:collapseIcon
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13633,11 +13635,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:contentInsetEnd
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13646,11 +13648,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:contentInsetEndWithActions
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13659,11 +13661,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:contentInsetLeft
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13672,11 +13674,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:contentInsetRight
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13685,11 +13687,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:contentInsetStart
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13698,11 +13700,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:contentInsetStartWithNavigation
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#logo}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#logo}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13710,21 +13712,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:logo
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:logo
      */
     public static final int Toolbar_logo=11;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#logoDescription}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#logoDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.com.ufpi.es.eventyacademic:logoDescription
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13733,21 +13735,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:maxButtonHeight
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#navigationContentDescription}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#navigationContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.com.ufpi.es.eventyacademic:navigationContentDescription
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#navigationIcon}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#navigationIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13755,11 +13757,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:navigationIcon
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:navigationIcon
      */
     public static final int Toolbar_navigationIcon=15;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13767,21 +13769,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:popupTheme
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:popupTheme
      */
     public static final int Toolbar_popupTheme=16;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#subtitle}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.com.ufpi.es.eventyacademic:subtitle
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:subtitle
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13789,32 +13791,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:subtitleTextAppearance
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#subtitleTextColor}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#subtitleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:subtitleTextColor
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#title}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name br.com.ufpi.es.eventyacademic:title
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:title
      */
     public static final int Toolbar_title=20;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#titleMargin}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#titleMargin}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13823,11 +13825,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:titleMargin
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:titleMargin
      */
     public static final int Toolbar_titleMargin=21;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#titleMarginBottom}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#titleMarginBottom}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13836,11 +13838,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:titleMarginBottom
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#titleMarginEnd}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#titleMarginEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13849,11 +13851,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:titleMarginEnd
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#titleMarginStart}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#titleMarginStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13862,11 +13864,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:titleMarginStart
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#titleMarginTop}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#titleMarginTop}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13875,11 +13877,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:titleMarginTop
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#titleMargins}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#titleMargins}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13888,11 +13890,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:titleMargins
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:titleMargins
      */
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13900,18 +13902,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:titleTextAppearance
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#titleTextColor}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#titleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:titleTextColor
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:titleTextColor
      */
     public static final int Toolbar_titleTextColor=28;
     /**
@@ -13923,9 +13925,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd br.com.ufpi.es.eventyacademic:paddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingStart br.com.ufpi.es.eventyacademic:paddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_theme br.com.ufpi.es.eventyacademic:theme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingEnd br.com.ufpi.es.br.com.ufpi.es.eventyacademic:paddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingStart br.com.ufpi.es.br.com.ufpi.es.eventyacademic:paddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_theme br.com.ufpi.es.br.com.ufpi.es.eventyacademic:theme}</code></td><td></td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -13945,8 +13947,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint br.com.ufpi.es.eventyacademic:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode br.com.ufpi.es.eventyacademic:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint br.com.ufpi.es.br.com.ufpi.es.eventyacademic:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode br.com.ufpi.es.br.com.ufpi.es.eventyacademic:backgroundTintMode}</code></td><td></td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -13971,18 +13973,18 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_android_background=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:backgroundTint
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13999,7 +14001,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name br.com.ufpi.es.eventyacademic:backgroundTintMode
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**
@@ -14087,7 +14089,7 @@ public final class R {
      */
     public static final int View_android_theme=0;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#paddingEnd}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#paddingEnd}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14096,11 +14098,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:paddingEnd
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#paddingStart}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#paddingStart}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14109,11 +14111,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name br.com.ufpi.es.eventyacademic:paddingStart
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
-     * <p>This symbol is the offset where the {@link br.com.ufpi.es.eventyacademic.R.attr#theme}
+     * <p>This symbol is the offset where the {@link br.com.ufpi.es.br.com.ufpi.es.eventyacademic.R.attr#theme}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14121,7 +14123,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name br.com.ufpi.es.eventyacademic:theme
+     * @attr name br.com.ufpi.es.br.com.ufpi.es.eventyacademic:theme
      */
     public static final int View_theme=4;
   }

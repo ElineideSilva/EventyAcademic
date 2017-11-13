@@ -1,127 +1,139 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:2:1-20:12
-INJECTED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:2:1-20:12
-INJECTED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:2:1-20:12
-INJECTED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:2:1-20:12
-MERGED from [com.android.support:design:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\design-27.0.1.aar\450ee3632edb1a5db8a3b1db49c56971\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\03467e689a24d8bda6265a4ac38fb003\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1bab94e6423a0aed52faf0e3958ce47b\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:recyclerview-v7:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.1.aar\44b2d868b2fc8f20fb768828501b5657\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\transition-27.0.1.aar\515b3f0cdc41f8095fb0f8ef7cfa0721\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\8f94dc132014f9f372b3c7db9d641d78\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\1a48037ed0628109652bbc090e785247\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\e1dde6f35f0b9f93d3b21607cfffc8e5\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\2f1141ab53f909c45e5b73edecd39750\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\bea3f19f040c55d22b1ca62da10c37de\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\a6513cbbad62c2d905cb183f4ca4f167\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\73eab02d1b417ca11369cedfefdc2061\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\d96eb2a7ee18f414cfde1e10326ad878\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\89071446a41f7fc7948dc28e54aaf408\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:2:1-20:12
-INJECTED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:2:1-20:12
-INJECTED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:2:1-20:12
+ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\design-27.0.1.aar\f9a45c285cbaafd108b848fa26fafc7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\9f3cc951c1f9cb865e33323ab3192e65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\443a47b05b9d3530411ca7e68db2017e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.1.aar\30597e90c821b00d56a540deef84c42b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\transition-27.0.1.aar\bb51d74e8ca71a879c5099c1c48c7a56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\9b2dc145b7f5f9dd5d5d5abf78e92d60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\43b923e0c6a797e889cf979e8c61f1a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\7688ffd1545e20b23e965e7f4a92e3d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\41318eab72d28053acab76e59a9dcf1a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\bf6e5434189ec241f8c9c28f5e9a41b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\d99bc14958249ce9706ebb520984ce58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\0a955cc05ed94e485d929ea949535257\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\af849acf624dcc5728ac2188eac7c5a6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c8a6a40c8e3fe095ab2d6496595abcad\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
-		ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:3:5-44
-		INJECTED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:2:1-20:12
-		INJECTED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:2:1-20:12
-		INJECTED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:5:5-18:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1bab94e6423a0aed52faf0e3958ce47b\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1bab94e6423a0aed52faf0e3958ce47b\AndroidManifest.xml:9:5-20
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\89071446a41f7fc7948dc28e54aaf408\AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\89071446a41f7fc7948dc28e54aaf408\AndroidManifest.xml:24:5-28:19
+ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\443a47b05b9d3530411ca7e68db2017e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\443a47b05b9d3530411ca7e68db2017e\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c8a6a40c8e3fe095ab2d6496595abcad\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c8a6a40c8e3fe095ab2d6496595abcad\AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:11:9-40
 activity#es.ufpi.br.eventyacademic.visao.CarregaTela
-ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:12:9-80
+ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:label
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:13:13-43
 	android:name
-		ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:12:19-77
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:12:19-77
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:16:27-74
 activity#es.ufpi.br.eventyacademic.visao.TelaCadastrarEvento
-ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:13:9-88
+ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:19:9-88
 	android:name
-		ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:13:19-85
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:19:19-85
 activity#es.ufpi.br.eventyacademic.visao.TelaCadastrarnoApp
-ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:14:9-87
+ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:20:9-87
 	android:name
-		ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:14:19-84
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:20:19-84
 activity#es.ufpi.br.eventyacademic.visao.TelaConsultarEvento
-ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:15:9-88
+ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:21:9-88
 	android:name
-		ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:15:19-85
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:21:19-85
 activity#es.ufpi.br.eventyacademic.visao.TelaLogin
-ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:16:9-78
+ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:22:9-78
 	android:name
-		ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:16:19-75
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:22:19-75
 activity#es.ufpi.br.eventyacademic.visao.TelaVariaEvento
-ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:17:9-93
+ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:23:9-93
 	android:name
-		ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml:17:19-81
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:23:19-81
 uses-sdk
-INJECTED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\design-27.0.1.aar\450ee3632edb1a5db8a3b1db49c56971\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\design-27.0.1.aar\450ee3632edb1a5db8a3b1db49c56971\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\03467e689a24d8bda6265a4ac38fb003\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\03467e689a24d8bda6265a4ac38fb003\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1bab94e6423a0aed52faf0e3958ce47b\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1bab94e6423a0aed52faf0e3958ce47b\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:recyclerview-v7:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.1.aar\44b2d868b2fc8f20fb768828501b5657\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.1.aar\44b2d868b2fc8f20fb768828501b5657\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\transition-27.0.1.aar\515b3f0cdc41f8095fb0f8ef7cfa0721\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\transition-27.0.1.aar\515b3f0cdc41f8095fb0f8ef7cfa0721\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\8f94dc132014f9f372b3c7db9d641d78\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\8f94dc132014f9f372b3c7db9d641d78\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\1a48037ed0628109652bbc090e785247\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\1a48037ed0628109652bbc090e785247\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\e1dde6f35f0b9f93d3b21607cfffc8e5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\e1dde6f35f0b9f93d3b21607cfffc8e5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\2f1141ab53f909c45e5b73edecd39750\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\2f1141ab53f909c45e5b73edecd39750\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\bea3f19f040c55d22b1ca62da10c37de\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\bea3f19f040c55d22b1ca62da10c37de\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\a6513cbbad62c2d905cb183f4ca4f167\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\a6513cbbad62c2d905cb183f4ca4f167\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\73eab02d1b417ca11369cedfefdc2061\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\73eab02d1b417ca11369cedfefdc2061\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\d96eb2a7ee18f414cfde1e10326ad878\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.1] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\d96eb2a7ee18f414cfde1e10326ad878\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\89071446a41f7fc7948dc28e54aaf408\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\89071446a41f7fc7948dc28e54aaf408\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\design-27.0.1.aar\f9a45c285cbaafd108b848fa26fafc7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\design-27.0.1.aar\f9a45c285cbaafd108b848fa26fafc7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\9f3cc951c1f9cb865e33323ab3192e65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\9f3cc951c1f9cb865e33323ab3192e65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\443a47b05b9d3530411ca7e68db2017e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\443a47b05b9d3530411ca7e68db2017e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.1.aar\30597e90c821b00d56a540deef84c42b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.1.aar\30597e90c821b00d56a540deef84c42b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\transition-27.0.1.aar\bb51d74e8ca71a879c5099c1c48c7a56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\transition-27.0.1.aar\bb51d74e8ca71a879c5099c1c48c7a56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\9b2dc145b7f5f9dd5d5d5abf78e92d60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\9b2dc145b7f5f9dd5d5d5abf78e92d60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\43b923e0c6a797e889cf979e8c61f1a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\43b923e0c6a797e889cf979e8c61f1a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\7688ffd1545e20b23e965e7f4a92e3d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\7688ffd1545e20b23e965e7f4a92e3d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\41318eab72d28053acab76e59a9dcf1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\41318eab72d28053acab76e59a9dcf1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\bf6e5434189ec241f8c9c28f5e9a41b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\bf6e5434189ec241f8c9c28f5e9a41b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\d99bc14958249ce9706ebb520984ce58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\d99bc14958249ce9706ebb520984ce58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\0a955cc05ed94e485d929ea949535257\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\0a955cc05ed94e485d929ea949535257\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\af849acf624dcc5728ac2188eac7c5a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\af849acf624dcc5728ac2188eac7c5a6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c8a6a40c8e3fe095ab2d6496595abcad\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c8a6a40c8e3fe095ab2d6496595abcad\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\eline\EventyAcademic\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml
 meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\89071446a41f7fc7948dc28e54aaf408\AndroidManifest.xml:25:9-27:47
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c8a6a40c8e3fe095ab2d6496595abcad\AndroidManifest.xml:25:9-27:47
 	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\89071446a41f7fc7948dc28e54aaf408\AndroidManifest.xml:27:13-44
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c8a6a40c8e3fe095ab2d6496595abcad\AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\eline\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\89071446a41f7fc7948dc28e54aaf408\AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Segundo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c8a6a40c8e3fe095ab2d6496595abcad\AndroidManifest.xml:26:13-58
