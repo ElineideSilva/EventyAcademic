@@ -12,11 +12,10 @@ public class ControladorCadastro {
      * em caso negativo, cadastra o novo usuario
      */
 
-    public boolean incluirUsuario(String User, String Email,
-                                  String Senha, String Nome, String CPF, Date Nascimento){
+    public boolean incluirUsuario(Usuario u){
 
-        if(r.buscar(Nome) == null){
-            u = new Usuario(User, Email, Senha, Nome, CPF, Nascimento);
+        if(r.buscar(u.getNome()) == null){
+            //u = new Usuario(u.getUsername(),u.getNome(), u.getEmail(), u.getEmail(), u.getCPF(), u.getCPF());
             r.inserir(u);
         }else{
             return false;
