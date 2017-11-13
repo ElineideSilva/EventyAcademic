@@ -1,11 +1,14 @@
 package es.ufpi.br.eventyacademic.visao;
+
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
-import es.ufpi.br.eventyacademic.visao.*;
+
 import br.com.ufpi.es.eventyacademic.R;
+
+.R;
 
 public class TelaVariaEvento extends AppCompatActivity {
 
@@ -19,18 +22,19 @@ public class TelaVariaEvento extends AppCompatActivity {
         consultaEventos = (Button) findViewById(R.id.buttonConsultarEventos);
         cadastraEventos = (Button) findViewById(R.id.buttonCadastrarEventos);
 
-        consultaEventos.setOnClickListener(new View.OnClickListener() {
-            public void onClick (View v){
-                Intent it1 = new Intent(this, TelaConsultarEvento.class);
-                startActivity(it1);
-            }
-        });
+       consultaEventos.setOnClickListener(new View.OnClickListener()
+       {
+           @Override
+           public void onClick(View view){
+               mudaTelaConsultarEvento(view);
+           }
+       });
 
-        cadastraEventos.setOnClickListener(new View.OnClickListener() {
+        cadastraEventos.setOnClickListener(new View.OnClickListener()
+        {
             @Override
-            public void onClick(View v) {
-            Intent it2 = new Intent(this, TelaCadastrarEvento.class);
-            startActivity(it2);
+            public void onClick(View view){
+                mudaTelaCadastraEvento(view);
             }
         });
 
@@ -39,4 +43,15 @@ public class TelaVariaEvento extends AppCompatActivity {
     //Intent intent = new Intent(this, SegundaActivity.class);
     //startActivity(intent);
     //usar bundle para passar parametros
+
+    public void mudaTelaConsultarEvento (View view){
+        Intent intentMostraTelaConsultar = new Intent(this,TelaConsultarEvento.class);
+        startActivity (intentMostraTelaConsultar);
+    }
+
+    public void mudaTelaCadastraEvento (View view){
+        Intent intentMostraTelaConsultar = new Intent(this,TelaCadastrarEvento.class);
+        startActivity (intentMostraTelaConsultar);
+    }
+
 }

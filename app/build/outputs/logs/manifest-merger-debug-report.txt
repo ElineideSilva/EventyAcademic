@@ -73,10 +73,10 @@ activity#es.ufpi.br.eventyacademic.visao.TelaLogin
 ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:16:9-78
 	android:name
 		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:16:19-75
-activity#br.com.ufpi.es.eventyacademic.varia_evento
-ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:17:9-59
+activity#es.ufpi.br.eventyacademic.visao.TelaVariaEvento
+ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:17:9-93
 	android:name
-		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:17:19-47
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:17:19-81
 uses-sdk
 INJECTED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml

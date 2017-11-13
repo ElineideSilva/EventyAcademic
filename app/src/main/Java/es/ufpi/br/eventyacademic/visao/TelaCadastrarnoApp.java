@@ -1,17 +1,16 @@
 package es.ufpi.br.eventyacademic.visao;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 
 import br.com.ufpi.es.eventyacademic.R;
 
 public class TelaCadastrarnoApp extends AppCompatActivity  {
 
-    Spinner spinner = (Spinner) findViewById(R.id.spinnerNivel);
+    Spinner spinnerN = (Spinner) findViewById(R.id.spinnerNivel);
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
