@@ -54,25 +54,29 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Segundo\.gradle\cach
 	android:theme
 		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:11:9-40
 activity#es.ufpi.br.eventyacademic.visao.CarregaTela
-ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:13:9-80
+ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:12:9-80
 	android:name
-		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:13:19-77
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:12:19-77
 activity#es.ufpi.br.eventyacademic.visao.TelaCadastrarEvento
-ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:14:9-88
+ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:13:9-88
 	android:name
-		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:14:19-85
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:13:19-85
 activity#es.ufpi.br.eventyacademic.visao.TelaCadastrarnoApp
-ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:15:9-87
+ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:14:9-87
 	android:name
-		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:15:19-84
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:14:19-84
 activity#es.ufpi.br.eventyacademic.visao.TelaConsultarEvento
-ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:16:9-88
+ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:15:9-88
 	android:name
-		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:16:19-85
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:15:19-85
 activity#es.ufpi.br.eventyacademic.visao.TelaLogin
-ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:17:9-87
+ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:16:9-78
 	android:name
-		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:17:19-75
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:16:19-75
+activity#br.com.ufpi.es.eventyacademic.varia_evento
+ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:17:9-59
+	android:name
+		ADDED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml:17:19-47
 uses-sdk
 INJECTED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Segundo\AndroidStudioProjects\EventyAcademic\app\src\main\AndroidManifest.xml

@@ -92,7 +92,7 @@
         tools:layout_editor_absoluteY="448dp" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/buttonCadastrar"
         android:layout_width="295dp"
         android:layout_height="47dp"
         android:text="Cadastrar"

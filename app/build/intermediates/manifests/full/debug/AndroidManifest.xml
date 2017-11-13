@@ -21,6 +21,7 @@
         <activity android:name="es.ufpi.br.eventyacademic.visao.TelaCadastrarnoApp" />
         <activity android:name="es.ufpi.br.eventyacademic.visao.TelaConsultarEvento" />
         <activity android:name="es.ufpi.br.eventyacademic.visao.TelaLogin" />
+        <activity android:name="br.com.ufpi.es.eventyacademic.varia_evento" />
 
         <meta-data
             android:name="android.arch.lifecycle.VERSION"

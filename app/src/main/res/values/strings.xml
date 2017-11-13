@@ -1,12 +1,18 @@
 <resources>
     <string name="app_name">EventyAcademic</string>
 
-    <string-array name="array_nivel" >
+    <string-array name="array_nivel">
         <item>Graduando</item>
         <item>Técnico</item>
         <item>Formado</item>
     </string-array>
 
+    <string-array name="array_area">
+        <item>Natureza</item>
+        <item>Humanas</item>
+        <item>Saúde</item>
+        <item>Exatas</item>
+    </string-array>
 
 
 </resources>

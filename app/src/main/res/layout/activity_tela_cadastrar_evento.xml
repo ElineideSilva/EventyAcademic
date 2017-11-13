@@ -24,5 +24,51 @@
         tools:layout_editor_absoluteY="4dp"
         android:onClick="evento" />
 
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="166dp"
+        android:layout_height="48dp"
+        android:text="Cadastar Evento"
+        android:textSize="20sp"
+        tools:layout_editor_absoluteX="109dp"
+        tools:layout_editor_absoluteY="59dp" />
+
+    <EditText
+        android:id="@+id/editTextNomeEvento"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Nome do Evento"
+        tools:layout_editor_absoluteX="84dp"
+        tools:layout_editor_absoluteY="124dp" />
+
+    <EditText
+        android:id="@+id/editText4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Descrição do Evento"
+        android:inputType="textMultiLine"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="213dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="148dp"
+        android:layout_height="29dp"
+        android:text="Descrição do Evento"
+        android:textSize="15sp"
+        tools:layout_editor_absoluteX="118dp"
+        tools:layout_editor_absoluteY="184dp" />
+
+    <Button
+        android:id="@+id/buttonCriarEvento"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Criar Evento "
+        tools:layout_editor_absoluteX="129dp"
+        tools:layout_editor_absoluteY="392dp" />
+
 
 </android.support.constraint.ConstraintLayout>
