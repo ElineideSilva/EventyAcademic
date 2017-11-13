@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_eventyacademic" default="compile.module.eventyacademic">
+  <dirname property="module.eventyacademic.basedir" file="${ant.file.module_eventyacademic}"/>
+  
+  <property name="module.jdk.home.eventyacademic" value="${jdk.home.1.8}"/>
+  <property name="module.jdk.bin.eventyacademic" value="${jdk.bin.1.8}"/>
+  <property name="module.jdk.classpath.eventyacademic" value="jdk.classpath.1.8"/>
+  
+  <property name="compiler.args.eventyacademic" value="-encoding UTF-8 -source 1.7 -target 1.7 ${compiler.args}"/>
+  
+  <property name="eventyacademic.output.dir" value="${module.eventyacademic.basedir}/build/classes/production/EventyAcademic"/>
+  <property name="eventyacademic.testoutput.dir" value="${module.eventyacademic.basedir}/build/classes/test/EventyAcademic"/>
+  
+  <path id="eventyacademic.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="eventyacademic.module.production.classpath">
+    <path refid="${module.jdk.classpath.eventyacademic}"/>
+  </path>
+  
+  <path id="eventyacademic.runtime.production.module.classpath">
+    <pathelement location="${eventyacademic.output.dir}"/>
+  </path>
+  
+  <path id="eventyacademic.module.classpath">
+    <path refid="${module.jdk.classpath.eventyacademic}"/>
+    <pathelement location="${eventyacademic.output.dir}"/>
+  </path>
+  
+  <path id="eventyacademic.runtime.module.classpath">
+    <pathelement location="${eventyacademic.testoutput.dir}"/>
+    <pathelement location="${eventyacademic.output.dir}"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.eventyacademic">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.eventyacademic">
+    <patternset refid="excluded.from.module.eventyacademic"/>
+  </patternset>
+  
+  
+  <target name="compile.module.eventyacademic" depends="compile.module.eventyacademic.production,compile.module.eventyacademic.tests" description="Compile module EventyAcademic"/>
+  
+  <target name="compile.module.eventyacademic.production" depends="register.custom.compilers" description="Compile module EventyAcademic; production classes"/>
+  
+  <target name="compile.module.eventyacademic.tests" depends="register.custom.compilers,compile.module.eventyacademic.production" description="compile module EventyAcademic; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.eventyacademic" description="cleanup module">
+    <delete dir="${eventyacademic.output.dir}"/>
+    <delete dir="${eventyacademic.testoutput.dir}"/>
+  </target>
+</project>
