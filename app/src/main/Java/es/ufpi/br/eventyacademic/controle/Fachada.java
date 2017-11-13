@@ -1,9 +1,8 @@
 package es.ufpi.br.eventyacademic.controle;
 
 import android.app.Application;
-import es.ufpi.br.eventyacademic.dados.Usuario;
 
-import java.util.List;
+import es.ufpi.br.eventyacademic.dados.Usuario;
 
 /**
  * Created by eline on 13/11/2017.
@@ -50,9 +49,9 @@ public class Fachada extends Application {
     /*
     Faz a busca de um usuário dado um e-mail
      */
-    //public Usuario buscarUsuarioEmail(String email){
-      //  return cu.carregarDadosUsuario(email);
-    //}
+    public Usuario buscarUsuarioEmail(String email){
+      return cu.carregarDadosUsuario(email);
+    }
 
     /**
      * Popula usuários aleatórios no repositório para efeito de testes
