@@ -11,14 +11,16 @@ import android.widget.Spinner;
 import android.widget.Toast;
 
 import br.com.ufpi.es.eventyacademic.R;
+import br.com.ufpi.es.eventyacademic.controle.Fachada;
+import br.com.ufpi.es.eventyacademic.dados.Usuario;
 
 public class TelaCadastrarnoApp extends AppCompatActivity  {
-    private EditText nome, rg, endereco, telefone;
+    private EditText nome, cpf, endereco, telefone;
     private Spinner spinnerN;
     private EditText email, senha, confirmeSenha;
     private Spinner spinnerA;
     private Button cadastrar;
-
+    private Fachada fachada;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,7 +28,7 @@ public class TelaCadastrarnoApp extends AppCompatActivity  {
         setContentView(R.layout.activity_tela_cadastrarno_app);
 
         nome = (EditText) findViewById(R.id.editTextNomeCadastro);
-        rg = (EditText) findViewById(R.id.editTextRG);
+        cpf = (EditText) findViewById(R.id.editTextCPF);
         endereco = (EditText) findViewById(R.id.editTextEndereco);
         telefone = (EditText) findViewById(R.id.editTextTelefone);
 
@@ -41,14 +43,40 @@ public class TelaCadastrarnoApp extends AppCompatActivity  {
         cadastrar.setOnClickListener(new View.OnClickListener() {
              @Override
              public void onClick(View view) {
-                if (isEmpty(nome) || isEmpty(rg) || isEmpty(endereco) || isEmpty(telefone) || isEmpty(email) || isEmpty(senha) || isEmpty(confirmeSenha) ){
+                if (isEmpty(nome) || isEmpty(cpf) || isEmpty(endereco) || isEmpty(telefone) || isEmpty(email) || isEmpty(senha) || isEmpty(confirmeSenha) ){
+
                     Toast.makeText(getContext(),"Preencha todos os campos",Toast.LENGTH_SHORT).show();
                 } else {
-                    //jogar no banco de dados
 
-                    //mudar pra tela de login
-                    mudaTelaLogin(view);
+                    if (senha != confirmeSenha){
+                        Toast.makeText(getContext(),"Senhas diferentes",Toast.LENGTH_SHORT).show();
+                    }
 
+                    else {
+
+                         if(fachada.buscarUsuarioEmail(email.getText().toString())!=null){
+                             Toast.makeText(getContext(),"Email já cadastrado",Toast.LENGTH_SHORT).show();
+                         }
+
+                         else{
+                        //jogar no banco de dados
+                        //public Usuario (String User, String Email, String Senha, String Nome, String CPF, Date Nascimento)
+                     /*   Usuario user = new Usuario(null, email.getText().toString(), senha.getText().toString(),
+                                nome.getText().toString(), cpf.getText().toString(), null);*/
+                        Usuario user = new Usuario ();
+
+                        user.setUsername(null); // O que fazer
+                        user.setEmail(email.getText().toString());
+                        user.setSenha(senha.getText().toString());
+                        user.setNome(nome.getText().toString());
+                        user.setCPF(cpf.getText().toString());
+                        user.setNascimento(null); //O que fazer
+
+                        fachada.inserirUsuario(user);
+                        //mudar pra tela de login
+                        mudaTelaLogin(view);
+                         }
+                    }
                 }
              }
 

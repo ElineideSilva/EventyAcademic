@@ -9,14 +9,14 @@ import android.widget.Button;
 import br.com.ufpi.es.eventyacademic.R;
 
 
-public class TelaVariaEvento extends AppCompatActivity {
+public class TelaLoginUser extends AppCompatActivity {
 
     Button consultaEventos, cadastraEventos;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_varia_evento);
+        setContentView(R.layout.activity_login_user);
 /*
         consultaEventos = (Button) findViewById(R.id.buttonConsultarEventos);
         cadastraEventos = (Button) findViewById(R.id.buttonCadastrarEventos);

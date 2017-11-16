@@ -20,11 +20,11 @@
         tools:layout_editor_absoluteY="6dp" />
 
     <EditText
-        android:id="@+id/editTextRG"
+        android:id="@+id/editTextCPF"
         android:layout_width="295dp"
         android:layout_height="47dp"
         android:ems="10"
-        android:hint="RG"
+        android:hint="CPF"
         android:inputType="textPersonName"
         tools:layout_editor_absoluteX="45dp"
         tools:layout_editor_absoluteY="63dp" />

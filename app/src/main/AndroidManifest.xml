@@ -20,7 +20,7 @@
         <activity android:name=".visao.TelaCadastrarnoApp" />
         <activity android:name=".visao.TelaConsultarEvento" />
         <activity android:name=".visao.TelaLogin" />
-        <activity android:name=".visao.TelaVariaEvento"></activity>
+        <activity android:name=".visao.TelaLoginUser"></activity>
     </application>
 
 </manifest>

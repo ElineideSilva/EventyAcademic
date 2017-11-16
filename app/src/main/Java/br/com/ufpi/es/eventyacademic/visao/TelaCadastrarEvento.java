@@ -10,12 +10,14 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 import br.com.ufpi.es.eventyacademic.R;
+import br.com.ufpi.es.eventyacademic.controle.Fachada;
 
 public class TelaCadastrarEvento extends AppCompatActivity {
 
     private Button buttonLogin, buttonEventos;
     private EditText editTextNomeEvento, editText4;
     private android.widget.Button buttonCriarEvento;
+    private Fachada fachada = new Fachada();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -54,7 +56,11 @@ public class TelaCadastrarEvento extends AppCompatActivity {
                 if (isEmpty(editTextNomeEvento) || isEmpty(editText4) ){
                     Toast.makeText(getContext(),"Preencha todos os campos",Toast.LENGTH_SHORT).show();
                 } else {
+
+                    //falta buscar evento peo nome para consultar sua existencia pra não permitir a inserção de eventos com mesmo nome
+
                     //jogar no banco de dados
+                    //Mudar contexto e enviar pelo bundle e intent o usuario para cadastrar o evento e associa-lo como organizador
                     MudaConfirmarEvento(v);
                 }
             }
