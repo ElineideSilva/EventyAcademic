@@ -27,6 +27,8 @@ public class TelaCadastrarnoApp extends AppCompatActivity  {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_tela_cadastrarno_app);
 
+        fachada = Fachada.getIntance();
+
         nome = (EditText) findViewById(R.id.editTextNomeCadastro);
         cpf = (EditText) findViewById(R.id.editTextCPF);
         endereco = (EditText) findViewById(R.id.editTextEndereco);

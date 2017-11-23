@@ -73,7 +73,8 @@ public class TelaLogin extends AppCompatActivity {
         try {
             Usuario usuario = fachada.buscarUsuarioEmail(usuarioInformado);
             if (usuario != null){
-                if (usuarioInformado.equals("Eleneide") && senhaInformada.equals("23")){
+                if (usuarioInformado.equals(usuario.getEmail()) && senhaInformada.equals(usuario.getSenha())) {
+               // if (usuarioInformado.equals("Eleneide") && senhaInformada.equals("23")){
                     Bundle bundle = new Bundle();
                     bundle.putString("nomeUsuario",usuario.getNome());
                     bundle.putString("emailUsuario",usuario.getEmail());
