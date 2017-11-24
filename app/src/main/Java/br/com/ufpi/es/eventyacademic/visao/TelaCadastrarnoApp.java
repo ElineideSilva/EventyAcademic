@@ -50,7 +50,7 @@ public class TelaCadastrarnoApp extends AppCompatActivity  {
                     Toast.makeText(getContext(),"Preencha todos os campos",Toast.LENGTH_SHORT).show();
                 } else {
 
-                    if (senha != confirmeSenha){
+                    if (senha.getText().toString().compareTo(confirmeSenha.getText().toString()) == 0){
                         Toast.makeText(getContext(),"Senhas diferentes",Toast.LENGTH_SHORT).show();
                     }
 
@@ -76,6 +76,9 @@ public class TelaCadastrarnoApp extends AppCompatActivity  {
 
                         fachada.inserirUsuario(user);
                         //mudar pra tela de login
+
+                        Toast.makeText(getContext(),"Cadastro feito com sucesso!",Toast.LENGTH_SHORT).show();
+
                         mudaTelaLogin(view);
                          }
                     }
