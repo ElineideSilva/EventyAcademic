@@ -50,7 +50,7 @@ public class TelaCadastrarnoApp extends AppCompatActivity  {
                     Toast.makeText(getContext(),"Preencha todos os campos",Toast.LENGTH_SHORT).show();
                 } else {
 
-                    if (senha.getText().toString().compareTo(confirmeSenha.getText().toString()) == 0){
+                    if (senha.getText().toString().compareTo(confirmeSenha.getText().toString()) != 0){
                         Toast.makeText(getContext(),"Senhas diferentes",Toast.LENGTH_SHORT).show();
                     }
 

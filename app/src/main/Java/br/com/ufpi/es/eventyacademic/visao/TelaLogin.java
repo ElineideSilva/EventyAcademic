@@ -78,7 +78,8 @@ public class TelaLogin extends AppCompatActivity {
                     Bundle bundle = new Bundle();
                     bundle.putString("nomeUsuario",usuario.getNome());
                     bundle.putString("emailUsuario",usuario.getEmail());
-                    Intent intent = new Intent(this,TelaConsultarEvento.class);
+                   // Intent intent = new Intent(this,TelaConsultarEvento.class);
+                    Intent intent = new Intent(this,TelaLoginUser.class);
                     intent.putExtras(bundle);
                     startActivity(intent);
                 }
