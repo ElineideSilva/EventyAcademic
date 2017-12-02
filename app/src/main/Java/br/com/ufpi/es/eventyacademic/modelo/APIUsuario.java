@@ -7,13 +7,13 @@ public class APIUsuario {
 
     @SerializedName("data")
     @Expose
-    private Usuario data;
+    private Usuario u;
 
     public Usuario getData() {
-        return data;
+        return u;
     }
     public void setData(Usuario data) {
-        this.data = data;
+        this.u = data;
     }
 
 }
