@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="br.com.ufpi.es.eventyacademic">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
+
     <!-- Alterar para: android:icon=@drawable/icone.png
         Antes da alteração: android:icon="@mipmap/ic_launcher"
     -->
