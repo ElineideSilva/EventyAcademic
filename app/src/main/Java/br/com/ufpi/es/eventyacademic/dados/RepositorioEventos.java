@@ -62,6 +62,17 @@ public class RepositorioEventos {
 		return evento;
 	}
 	
+	public Minicurso buscarminicurso(String nome) {		
+		Minicurso minicurso = null;
+		//percorre toda a lista e checa se o evento existe
+		for(Minicurso u : listaMini){
+			if (u.getNome().equals(nome) ){
+				minicurso = u;
+				return minicurso;
+			}
+		}
+		return minicurso;
+	}
 	
 	
 	/**

@@ -14,7 +14,7 @@ public class ControladorCadastro {
 
     public boolean incluirUsuario(Usuario u){
 
-        if(r.buscar(u.getNome()) == null){
+        if(r.buscar(u.getEmail()) == null){
             //u = new Usuario(u.getUsername(),u.getNome(), u.getEmail(), u.getEmail(), u.getCPF(), u.getCPF());
             r.inserir(u);
         }else{
