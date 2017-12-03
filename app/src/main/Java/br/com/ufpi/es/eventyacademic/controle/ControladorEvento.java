@@ -44,6 +44,44 @@ public class ControladorEvento {
     }
 
     /**
+     * Verifica se existe eventos pendentes para serem confirmados.
+     * Devolve null em caso negativo.
+     * Devolve a lista de eventos a serem confirmados em caso positivo.
+     */
+    
+    public List<Evento> verEventosPendentes(){
+    	
+    	List<Evento> eventospendentes = new ArrayList<Evento>();
+    	
+    	for(Evento auxiliar : r.listar()) {
+    		if(auxiliar.getStatus().equals("pendente"))
+    			eventospendentes.add(auxiliar);
+    	}
+    	
+    	if(eventospendentes.isEmpty()) return null;
+    	
+    	return eventospendentes;
+    	
+    }
+    
+    /**
+     * Busca o evento a ser confirmado.
+     * Caso o evento exista, altera seu status para "confirmado" e retorna true
+     */
+    
+    public boolean confirmarEvento(String nome) {
+    	
+    	Evento auxiliar;
+    	auxiliar = r.buscar(nome);
+    	
+    	if(auxiliar == null)
+    		return false;
+    	
+    	auxiliar.setStatus();
+    	return true;
+    }
+    
+    /**
      * Recebe o email do usuario que quer se inscrever e o nome do evento.
      * Verifica se o mesmo já está inscrito no evento, em caso positivo retorna false,
      * em caso negativo adiciona na lista de participantes do evento e retorna true
