@@ -1,4 +1,9 @@
-package br.com.ufpi.es.eventyacademic.controle;
+﻿package br.com.ufpi.es.eventyacademic.controle;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import br.com.ufpi.es.eventyacademic.dados.Evento;
 
 import android.app.Application;
 
@@ -7,8 +12,8 @@ import br.com.ufpi.es.eventyacademic.dados.Usuario;
 /**
  * Created by eline on 13/11/2017.
  */
-public class Fachada extends Application {
 
+public class Fachada extends Application {
 
     private static Fachada singleton=null;
 
@@ -29,7 +34,7 @@ public class Fachada extends Application {
     }
 
     /**
-     * Uso do padrão singleton para garantir que a Fachada é única para toda a aplicação
+     * Uso do padrÃ£o singleton para garantir que a Fachada Ã© Ãºnica para toda a aplicaÃ§Ã£o
      * @return
      */
     public static Fachada getIntance(){
@@ -37,6 +42,41 @@ public class Fachada extends Application {
             singleton = new Fachada();
         }
         return singleton;
+    }
+    
+    /*
+    inscreve o participante no evento usando o email do mesmo e o nome do evento
+     */
+    
+    public boolean increverNoEvento(String email, String nomedoevento) {
+    	
+    	return cv.increverNoEvento(email, nomedoevento);
+    	
+    }
+
+    /*
+    confirma o evento
+     */
+    
+    public boolean confirmarEvento(String nome) {
+    	
+    	return cv.confirmarEvento(nome);
+    }
+    
+    /*
+    retorna a lista de eventos ainda não confirmados
+     */
+    
+    public List<Evento> verEventosPendentes(){
+    	
+    	return cv.verEventosPendentes();
+    	
+    }
+    
+    public List<Evento> verTodosEventos(){
+    	
+    	return cv.verEventosPendentes();
+    	
     }
 
     /*
@@ -54,7 +94,7 @@ public class Fachada extends Application {
     }
 
     /**
-     * Popula usuários aleatórios no repositório para efeito de testes
+     * Popula usuÃ¡rios aleatÃ³rios no repositÃ³rio para efeito de testes
      */
     //public void populaUsuarios(){
      //   cu.popular();
@@ -77,9 +117,9 @@ public class Fachada extends Application {
     }
 
     /**
-     * Dado um usuário retorna todas as suas viagens cadastradas
+     * Dado um usuÃ¡rio retorna todas as suas viagens cadastradas
      * @param usuario Usuarios
-     * @return lista com todas as vigens do usuário
+     * @return lista com todas as vigens do usuÃ¡rio
      */
 
 
