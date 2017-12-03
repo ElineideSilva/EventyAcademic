@@ -1,4 +1,4 @@
-package br.com.ufpi.es.eventyacademic.dados;
+﻿package br.com.ufpi.es.eventyacademic.dados;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -14,14 +14,28 @@ public class RepositorioEventos {
 	 * Dado um evento este é inserido na lista de eventos
 	 */
 	public void inserir(Evento u) {
+		
 		listaEve.add(u);
+		
 	}
+	
 	public void inserirMinicurso(Minicurso m) {
-		listaMini.add(m);}
+		
+		listaMini.add(m);
+		
+	}
+	
 	public void inserirPalestra(Palestra p) {
-		listaPalestra.add(p);}
+		
+		listaPalestra.add(p);
+		
+	}
+	
 	public void inserirWorkshop(Workshop w) {
-		listaWork.add(w);}
+		
+		listaWork.add(w);
+		
+	}
 
 	/**
 	 * Retorna a lista de eventos
