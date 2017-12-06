@@ -1,0 +1,3 @@
+-Correção de defeitos presentes na iteração de telas do prototipo 1
+-Melhoria no icone do aplicativo no celular
+-Melhoria na classe controle
