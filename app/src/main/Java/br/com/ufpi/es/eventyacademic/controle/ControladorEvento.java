@@ -83,7 +83,7 @@ public class ControladorEvento {
     
     /**
      * Recebe o email do usuario que quer se inscrever e o nome do evento.
-     * Verifica se o mesmo já está inscrito no evento, em caso positivo retorna false,
+     * Verifica se o mesmo jï¿½ estï¿½ inscrito no evento, em caso positivo retorna false,
      * em caso negativo adiciona na lista de participantes do evento e retorna true
      */
 

@@ -59,6 +59,18 @@ public class RepositorioUsuarios {
 
     }
 
+    //Insere usuarios no array para testes
+    public void popoulaRepositorioUsuarios(){
+        Usuario usuario1 = new Usuario();
+        usuario1.setUsername("EliSilva");
+        usuario1.setEmail("elineide.silva.inf@gmail.com");
+        usuario1.setSenha("123");
+        usuario1.setNome("Elineide Silva");
+        usuario1.setCPF("12345678");
+
+        inserir(usuario1);
+    }
+
 
 
 }

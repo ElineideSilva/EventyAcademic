@@ -1,4 +1,4 @@
-﻿package br.com.ufpi.es.eventyacademic.dados;
+package br.com.ufpi.es.eventyacademic.dados;
 
 import java.util.LinkedList;
 import java.util.List;

@@ -1,4 +1,4 @@
-﻿package br.com.ufpi.es.eventyacademic.controle;
+package br.com.ufpi.es.eventyacademic.controle;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -96,9 +96,9 @@ public class Fachada extends Application {
     /**
      * Popula usuÃ¡rios aleatÃ³rios no repositÃ³rio para efeito de testes
      */
-    //public void populaUsuarios(){
-     //   cu.popular();
-   // }
+    public void populaUsuarios(){
+        cu.popular();
+    }
 
     /**
      * Lista todos os usuários cadastrados

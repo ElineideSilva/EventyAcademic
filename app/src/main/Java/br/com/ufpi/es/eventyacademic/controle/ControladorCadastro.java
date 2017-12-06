@@ -41,4 +41,9 @@ public class ControladorCadastro {
             return null;
         }
     }
+
+    //Inseri alguns usuarios no array para testes
+    public void popular(){
+        r.popoulaRepositorioUsuarios();
+    }
 }
