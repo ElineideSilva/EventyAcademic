@@ -39,7 +39,7 @@ public class Database extends SQLiteOpenHelper {
         onCreate(db);
     }
 
-    public Cursor recuperarUsuario (String tabela){
+    public Cursor recuperarDados (String tabela){
         Cursor retorno = db.rawQuery("SELECT * FROM " + tabela, null);
         return retorno;
     }
