@@ -116,6 +116,12 @@ public class Fachada extends Application {
         //TODO implementar alterarUsuario
     }
 
+    public void cadastraevento(Evento novoevento){
+
+        cv.cadastraEvento(novoevento.getNome(), novoevento.getLocal(), novoevento.getTipo(), novoevento.getData_inicio(),
+                novoevento.getData_fim(), novoevento.getOrganizador());
+    }
+
     /**
      * Dado um usuÃ¡rio retorna todas as suas viagens cadastradas
      * @param usuario Usuarios
