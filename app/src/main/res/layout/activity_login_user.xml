@@ -13,31 +13,31 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="10dp">
 
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Home"
-            android:layout_weight="0.3"/>
 
         <Button
+            android:id="@+id/btEventosLoginUser"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Eventos"
             android:layout_weight="0.3"/>
 
         <Button
+            android:id="@+id/btMeusEventosLoginUser"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Meus Eventos"
             android:layout_weight="0.3"/>
 
+        <Button
+            android:id="@+id/btConfirmarEventoLoginUser"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cadastrar Evento"
+            android:layout_gravity="right"/>
+
+
     </LinearLayout>
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Cadastrar Evento"
-        android:layout_gravity="right"/>
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -54,21 +54,25 @@
             android:orientation="vertical">
 
             <TextView
+                android:id="@+id/textNomeTelaLoginUser"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Nome"/>
 
             <TextView
+                android:id="@+id/textEmailTelaLoginUser"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Email"/>
 
             <TextView
+                android:id="@+id/textCpfTelaLoginUser"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Cpf"/>
 
             <TextView
+                android:id="@+id/textStatusTelaLoginUser"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Status"/>

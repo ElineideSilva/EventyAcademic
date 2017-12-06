@@ -5,6 +5,30 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="br.com.ufpi.es.eventyacademic.visao.TelaCadastrarWorkshop">
+    tools:context="br.com.ufpi.es.eventyacademic.visao.TelaCadastrarWorkshop"
+    android:layout_margin="10dp"
+    >
+
+
+    <TextView
+        android:id="@+id/textNomeTelaLoginUser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cadastrar Workshop"
+        />
+
+    <EditText
+        android:id="@+id/editTextNomeCadastro"
+        android:layout_width="295dp"
+        android:layout_height="47dp"
+        android:ems="10"
+        android:hint="Nome"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="45dp"
+        tools:layout_editor_absoluteY="6dp" />
+
+
+
+
 
 </LinearLayout>
