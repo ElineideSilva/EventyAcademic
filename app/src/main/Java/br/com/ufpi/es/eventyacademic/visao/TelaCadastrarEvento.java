@@ -59,6 +59,8 @@ public class TelaCadastrarEvento extends AppCompatActivity {
 
                     //falta buscar evento peo nome para consultar sua existencia pra não permitir a inserção de eventos com mesmo nome
 
+
+
                     //jogar no banco de dados
                     //Mudar contexto e enviar pelo bundle e intent o usuario para cadastrar o evento e associa-lo como organizador
                     MudaConfirmarEvento(v);
