@@ -68,7 +68,33 @@ public class RepositorioUsuarios {
         usuario1.setNome("Elineide Silva");
         usuario1.setCPF("12345678");
 
+
+
+        Usuario usuario2 = new Usuario();
+        usuario2.setUsername("gustavo");
+        usuario2.setEmail("gustavo@gmail.com");
+        usuario2.setSenha("12345");
+        usuario2.setNome("Gustavo");
+        usuario2.setCPF("666");
+
+        Usuario usuario3 = new Usuario();
+        usuario1.setUsername("peixe");
+        usuario1.setEmail("peixe@gmail.com");
+        usuario1.setSenha("1111");
+        usuario1.setNome("quem dera ser um peixe");
+        usuario1.setCPF("1111");
+
+        Usuario usuario4 = new Usuario();
+        usuario1.setUsername("segundo");
+        usuario1.setEmail("2@gmail.com");
+        usuario1.setSenha("123");
+        usuario1.setNome("Elineide Silva");
+        usuario1.setCPF("12345678");
+
         inserir(usuario1);
+        inserir(usuario2);
+        inserir(usuario3);
+        inserir(usuario4);
     }
 
 
