@@ -19,7 +19,7 @@ public class Minicurso {
         this.data_inicio = data_inicio;
         this.data_fim = data_fim;
         this.ministrante = ministrante;
-        this.participantes = null;
+        participantes = new ArrayList<Usuario>();
     }
 
     public String getNome() {
@@ -58,7 +58,7 @@ public class Minicurso {
         return participantes;
     }
 
-    public void setParticipantes(ArrayList<Usuario> participantes) {
-        this.participantes = participantes;
+    public void setParticipantes(Usuario u) {
+        participantes.add(u);
     }
 }

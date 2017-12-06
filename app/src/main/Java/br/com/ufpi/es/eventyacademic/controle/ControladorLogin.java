@@ -1,4 +1,4 @@
-package br.com.ufpi.es.eventyacademic.controle;
+﻿package br.com.ufpi.es.eventyacademic.controle;
 
 import br.com.ufpi.es.eventyacademic.dados.RepositorioUsuarios;
 import br.com.ufpi.es.eventyacademic.dados.*;
@@ -14,9 +14,9 @@ public class ControladorLogin {
      * em caso positivo, verifica se a senha informada está correta
      */
 
-    public boolean realizaLogin(String nome, String senha) {
+    public boolean realizaLogin(String email, String senha) {
 
-        u = r.buscar(nome);
+        u = r.buscar(email);
         if(u == null)
             return false;
         else

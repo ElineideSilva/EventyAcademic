@@ -11,12 +11,12 @@ public class Evento {
 	private Date data_inicio;
 	private Date data_fim;
 	private Usuario organizador;
+	private String Status;
 	private ArrayList<Usuario> participantes;
 	//private Calendario calendario;
 	
 	
-	public Evento(String nome, String local, int tipo, Date data_inicio, Date data_fim, Usuario organizador,
-			ArrayList<Usuario> participantes) {
+	public Evento(String nome, String local, int tipo, Date data_inicio, Date data_fim, Usuario organizador) {
 		super();
 		this.nome = nome;
 		this.local = local;
@@ -24,7 +24,8 @@ public class Evento {
 		this.data_inicio = data_inicio;
 		this.data_fim = data_fim;
 		this.organizador = organizador;
-		this.participantes = null;
+		this.Status = "pendente";
+		this.participantes = new ArrayList<Usuario>();
 	}
 
 
@@ -74,6 +75,10 @@ public class Evento {
 	}
 
 
+	public String getStatus() {
+		return Status;
+	}
+	
 	public void setData_fim(Date data_fim) {
 		this.data_fim = data_fim;
 	}
@@ -88,18 +93,17 @@ public class Evento {
 		this.organizador = organizador;
 	}
 
+	public void setStatus() {
+		this.Status = "confirmado";
+	}
 
 	public ArrayList<Usuario> getParticipantes() {
 		return participantes;
 	}
 
 
-	public void setParticipantes(ArrayList<Usuario> participantes) {
-		this.participantes = participantes;
+	public void setParticipantes(Usuario novousuario) {
+		participantes.add(novousuario);
 	}
-	
-	
-	
-	
 	
 }

@@ -2,10 +2,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="br.com.ufpi.es.eventyacademic">
 
-    <!-- Alterar para: android:icon=@drawable/icone.png
+    <!--
+     Alterar para: android:icon=@drawable/icone.png
         Antes da alteração: android:icon="@mipmap/ic_launcher"
     -->
-
     <application
         android:allowBackup="true"
         android:icon="@drawable/icone"
@@ -13,18 +13,26 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".visao.CarregaTela"
+        <activity
+            android:name=".visao.CarregaTela"
             android:label="Eventy Academic">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
-                <category android:name="android.intent.category.LAUNCHER"/>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity android:name=".visao.TelaCadastrarEvento" />
         <activity android:name=".visao.TelaCadastrarnoApp" />
         <activity android:name=".visao.TelaConsultarEvento" />
         <activity android:name=".visao.TelaLogin" />
-        <activity android:name=".visao.TelaLoginUser"></activity>
+        <activity android:name=".visao.TelaLoginUser" />
+        <activity android:name=".visao.TelaCadastrarMinicurso" />
+        <activity android:name=".visao.TelaCadastrarWorkshop" />
+        <activity android:name=".visao.TelaCadastraPalestra" />
+        <activity android:name=".visao.TelaInscricaonoEvento" />
+        <activity android:name=".visao.TelaConfirmarEvento" />
+        <activity android:name=".visao.TelaGerarRelatoriodoEvento"></activity>
     </application>
 
 </manifest>
